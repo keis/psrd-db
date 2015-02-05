@@ -1,0 +1,168 @@
+{
+    "name": "Wizard",
+    "type": "class",
+    "hit_die": "d6",
+    "skill_ranks": "2 + <int-modifier>",
+    "levels": [
+        {
+            "base_attack_bonus": [0],
+            "fortitude_save": 0,
+            "reflex_save": 0,
+            "will_save": 2,
+            "special": ["arcane bond", "arcane school", "cantrips", "scribe scroll"],
+            "spells": [3, 1]
+        },
+        {
+            "base_attack_bonus": [1],
+            "fortitude_save": 0,
+            "reflex_save": 0,
+            "will_save": 3,
+            "special": [],
+            "spells": [4, 2]
+        },
+        {
+            "base_attack_bonus": [1],
+            "fortitude_save": 1,
+            "reflex_save": 1,
+            "will_save": 3,
+            "special": [],
+            "spells": [4, 2, 1]
+        },
+        {
+            "base_attack_bonus": [2],
+            "fortitude_save": 1,
+            "reflex_save": 1,
+            "will_save": 4,
+            "special": [],
+            "spells": [4, 3, 2]
+        },
+        {
+            "base_attack_bonus": [2],
+            "fortitude_save": 1,
+            "reflex_save": 1,
+            "will_save": 5,
+            "special": ["bonus feat"],
+            "spells": [4, 3, 2, 1]
+        },
+        {
+            "base_attack_bonus": [3],
+            "fortitude_save": 2,
+            "reflex_save": 2,
+            "will_save": 5,
+            "special": [],
+            "spells": [4, 3, 3, 2]
+        },
+        {
+            "base_attack_bonus": [3],
+            "fortitude_save": 2,
+            "reflex_save": 2,
+            "will_save": 5,
+            "special": [],
+            "spells": [4, 4, 3, 2, 1]
+        },
+        {
+            "base_attack_bonus": [4],
+            "fortitude_save": 2,
+            "reflex_save": 2,
+            "will_save": 6,
+            "special": [],
+            "spells": [4, 4, 3, 3, 2]
+        },
+        {
+            "base_attack_bonus": [4],
+            "fortitude_save": 3,
+            "reflex_save": 3,
+            "will_save": 6,
+            "special": [],
+            "spells": [4, 4, 4, 3, 2, 1]
+        },
+        {
+            "base_attack_bonus": [5],
+            "fortitude_save": 3,
+            "reflex_save": 3,
+            "will_save": 7,
+            "special": ["bonus feat"],
+            "spells": [4, 4, 4, 3, 3, 2]
+        },
+        {
+            "base_attack_bonus": [5],
+            "fortitude_save": 3,
+            "reflex_save": 3,
+            "will_save": 7,
+            "special": [],
+            "spells": [4, 4, 4, 4, 3, 2, 1]
+        },
+        {
+            "base_attack_bonus": [6, 1],
+            "fortitude_save": 4,
+            "reflex_save": 4,
+            "will_save": 8,
+            "special": [],
+            "spells": [4, 4, 4, 4, 3, 3, 2]
+        },
+        {
+            "base_attack_bonus": [6, 1],
+            "fortitude_save": 4,
+            "reflex_save": 4,
+            "will_save": 8,
+            "special": [],
+            "spells": [4, 4, 4, 4, 4, 3, 2, 1]
+        },
+        {
+            "base_attack_bonus": [7, 2],
+            "fortitude_save": 4,
+            "reflex_save": 4,
+            "will_save": 9,
+            "special": [],
+            "spells": [4, 4, 4, 4, 4, 3, 3, 2]
+        },
+        {
+            "base_attack_bonus": [7, 2],
+            "fortitude_save": 5,
+            "reflex_save": 5,
+            "will_save": 9,
+            "special": ["bonus feat"],
+            "spells": [4, 4, 4, 4, 4, 4, 3, 2, 1]
+        },
+        {
+            "base_attack_bonus": [8, 3],
+            "fortitude_save": 5,
+            "reflex_save": 5,
+            "will_save": 10,
+            "special": [],
+            "spells": [4, 4, 4, 4, 4, 4, 3, 3, 2]
+        },
+        {
+            "base_attack_bonus": [8, 3],
+            "fortitude_save": 5,
+            "reflex_save": 5,
+            "will_save": 10,
+            "special": [],
+            "spells": [4, 4, 4, 4, 4, 4, 4, 3, 2, 1]
+        },
+        {
+            "base_attack_bonus": [9, 4],
+            "fortitude_save": 6,
+            "reflex_save": 6,
+            "will_save": 11,
+            "special": [],
+            "spells": [4, 4, 4, 4, 4, 4, 4, 3, 3, 2]
+        },
+        {
+            "base_attack_bonus": [9, 4],
+            "fortitude_save": 6,
+            "reflex_save": 6,
+            "will_save": 11,
+            "special": [],
+            "spells": [4, 4, 4, 4, 4, 4, 4, 4, 3, 3]
+        },
+        {
+            "base_attack_bonus": [10, 5],
+            "fortitude_save": 6,
+            "reflex_save": 6,
+            "will_save": 12,
+            "special": ["bonus feat"],
+            "spells": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+        }
+    ]
+}
