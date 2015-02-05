@@ -1,0 +1,16 @@
+{
+  "name": "psrd-db",
+  "version": "1.0.0",
+  "description": "distilled information from paizos system reference document for pathfinder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pathfinder",
+    "psrd",
+    "rpg"
+  ],
+  "author": "David Keijser <keijser@gmail.com>",
+  "license": "OGL"
+}
