@@ -12,5 +12,11 @@
     "rpg"
   ],
   "author": "David Keijser <keijser@gmail.com>",
-  "license": "OGL"
+  "license": "OGL",
+  "devDependencies": {
+    "coffee-script": "^1.9.0",
+    "yargs": "^2.3.0",
+    "object.pick": "~1.1.1",
+    "map-limit": "0.0.1"
+  }
 }

@@ -1,0 +1,44 @@
+#!/usr/bin/env coffee
+
+fs = require 'fs'
+mapLimit = require 'map-limit'
+pick = require 'object.pick'
+
+
+detectName = (path) ->
+  m = /\/([a-z_]+)\/spell/.exec path
+  if m then m[1] else throw new Error 'Could not detect source book name'
+
+
+importSpells = (target, src, callback) ->
+
+  importFile = (file, callback) ->
+    fs.readFile "#{src}/#{file}", (err, data) ->
+      return callback err if err
+
+      data = JSON.parse data
+
+      callback null, pick data, ['name', 'type', 'school', 'levels']
+
+  fs.readdir src, (err, files) ->
+    return callback err if err
+
+    mapLimit files, 4, importFile, (err, data) ->
+      return callback err if err
+
+      fs.writeFile target, JSON.stringify data, null, 2
+      callback null
+
+
+if module.parent is null
+  args = require 'yargs'
+    .demand 1
+    .alias 'n', 'name'
+    .argv
+
+  path = args._[0]
+  name = args.name or detectName path
+
+  importSpells "#{name}/spells.json", path, (err) ->
+    return console.error err if err
+    console.log 'done'
