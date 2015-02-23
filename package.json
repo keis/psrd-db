@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "distilled information from paizos system reference document for pathfinder",
   "main": "index.js",
+  "files": [
+    "core_rulebook/"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
