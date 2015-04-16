@@ -1,0 +1,29 @@
+[
+  {
+    "name": "abjuration"
+  },
+  {
+    "name": "conjuration"
+  },
+  {
+    "name": "divination"
+  },
+  {
+    "name": "enchantment"
+  },
+  {
+    "name": "evocation"
+  },
+  {
+    "name": "illusion"
+  },
+  {
+    "name": "necromancy"
+  },
+  {
+    "name": "transmutation"
+  },
+  {
+    "name": "universalist"
+  }
+]
