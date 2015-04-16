@@ -1,0 +1,37 @@
+#!/usr/bin/env coffee
+# Given the path to the PSRD data for the wizard class produce a list of
+# available arcane schools
+
+fs = require 'fs'
+
+schoolUrl = 'pfsrd://Core Rulebook/Classes/Wizard/Arcane Schools'
+
+findSection = (root, url) ->
+  for section in root.sections
+    return section if section.url == url
+
+
+findSchools = (section) ->
+  for s in section.sections when s.subtype == 'arcane_school'
+    name: s.name.toLowerCase().replace(/ school/, '')
+
+
+importArcaneSchools = (target, src, callback)->
+  fs.readFile src, (err, data) ->
+    return callback err if err
+
+    data = JSON.parse data
+
+    main = findSection data, schoolUrl
+    data = findSchools main
+    fs.writeFile target, JSON.stringify(data, null, 2), callback
+
+
+if module.parent is null
+  args = require 'yargs'
+    .demand 1
+    .argv
+
+  path = args._[0]
+  importArcaneSchools 'core_rulebook/arcane_schools.json', path, (err) ->
+    return console.error err if err

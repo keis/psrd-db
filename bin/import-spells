@@ -26,8 +26,7 @@ importSpells = (target, src, callback) ->
     mapLimit files, 4, importFile, (err, data) ->
       return callback err if err
 
-      fs.writeFile target, JSON.stringify data, null, 2
-      callback null
+      fs.writeFile target, JSON.stringify(data, null, 2), callback
 
 
 if module.parent is null
@@ -41,4 +40,3 @@ if module.parent is null
 
   importSpells "#{name}/spells.json", path, (err) ->
     return console.error err if err
-    console.log 'done'
