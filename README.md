@@ -16,5 +16,5 @@ Content is copyright paizo inc and is available under the OGL license
 
 Complete data, but less computer friendly
 
-(PSRD-Data)[https://github.com/devonjones/PSRD-Data]
-(PSRD-Parser)[https://github.com/devonjones/PSRD-Parser]
+[PSRD-Data](https://github.com/devonjones/PSRD-Data)
+[PSRD-Parser](https://github.com/devonjones/PSRD-Parser)
