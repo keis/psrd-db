@@ -1,6 +1,6 @@
 {
   "name": "psrd-db",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "distilled information from paizos system reference document for pathfinder",
   "main": "index.js",
   "repository": {
