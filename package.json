@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "distilled information from paizos system reference document for pathfinder",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keis/psrd-db.git"
+  },
   "files": [
     "core_rulebook/"
   ],
