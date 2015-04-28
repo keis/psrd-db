@@ -1,0 +1,6435 @@
+[
+  {
+    "name": "Acidic Spray",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Magus",
+        "level": 5
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Acute Senses",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 2
+      },
+      {
+        "class": "Investigator",
+        "level": 2
+      },
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Inquisitor",
+        "level": 2
+      },
+      {
+        "class": "Ranger",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Age Resistance",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 4
+      },
+      {
+        "class": "Investigator",
+        "level": 4
+      },
+      {
+        "class": "Druid",
+        "level": 6
+      },
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      },
+      {
+        "class": "Witch",
+        "level": 6
+      },
+      {
+        "class": "Hunter",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Age Resistance, Greater",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 5
+      },
+      {
+        "class": "Investigator",
+        "level": 5
+      },
+      {
+        "class": "Druid",
+        "level": 7
+      },
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      },
+      {
+        "class": "Witch",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "name": "Age Resistance, Lesser",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 3
+      },
+      {
+        "class": "Investigator",
+        "level": 3
+      },
+      {
+        "class": "Druid",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Agonize",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 3
+      },
+      {
+        "class": "Oracle",
+        "level": 3
+      },
+      {
+        "class": "Warpriest",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Summoner",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Allegro",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Animate Dead, Lesser",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 2
+      },
+      {
+        "class": "Oracle",
+        "level": 2
+      },
+      {
+        "class": "Warpriest",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Anthropomorphic Animal",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Anticipate Peril",
+    "type": "spell",
+    "school": "divination",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 1
+      },
+      {
+        "class": "Investigator",
+        "level": 1
+      },
+      {
+        "class": "Bard",
+        "level": 1
+      },
+      {
+        "class": "Skald",
+        "level": 1
+      },
+      {
+        "class": "Ranger",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Arboreal Hammer",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Arcana Theft",
+    "type": "spell",
+    "school": "abjuration",
+    "levels": [
+      {
+        "class": "Magus",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Archon's Aura",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 3
+      },
+      {
+        "class": "Oracle",
+        "level": 3
+      },
+      {
+        "class": "Warpriest",
+        "level": 3
+      },
+      {
+        "class": "Paladin",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Arrow Of Law",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 2
+      },
+      {
+        "class": "Oracle",
+        "level": 2
+      },
+      {
+        "class": "Warpriest",
+        "level": 2
+      },
+      {
+        "class": "Paladin",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Ash Storm",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Astral Projection, Lesser",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 5
+      },
+      {
+        "class": "Oracle",
+        "level": 5
+      },
+      {
+        "class": "Warpriest",
+        "level": 5
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Atavism",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Atavism, Mass",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "name": "Aura Of Doom",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 4
+      },
+      {
+        "class": "Oracle",
+        "level": 4
+      },
+      {
+        "class": "Warpriest",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Badger's Ferocity",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 3
+      },
+      {
+        "class": "Oracle",
+        "level": 3
+      },
+      {
+        "class": "Warpriest",
+        "level": 3
+      },
+      {
+        "class": "Druid",
+        "level": 3
+      },
+      {
+        "class": "Ranger",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Battlemind Link",
+    "type": "spell",
+    "school": "divination",
+    "levels": [
+      {
+        "class": "Inquisitor",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Bestow Grace Of The Champion",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 7
+      },
+      {
+        "class": "Oracle",
+        "level": 7
+      },
+      {
+        "class": "Warpriest",
+        "level": 7
+      },
+      {
+        "class": "Paladin",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Blade Of Bright Victory",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Paladin",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Blade Of Dark Triumph",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Antipaladin",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Blessing Of The Mole",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 3
+      },
+      {
+        "class": "Oracle",
+        "level": 3
+      },
+      {
+        "class": "Warpriest",
+        "level": 3
+      },
+      {
+        "class": "Inquisitor",
+        "level": 3
+      },
+      {
+        "class": "Paladin",
+        "level": 3
+      },
+      {
+        "class": "Ranger",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Blood Crow Strike",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 4
+      },
+      {
+        "class": "Oracle",
+        "level": 4
+      },
+      {
+        "class": "Warpriest",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Blood Mist",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "name": "Blood Transcription",
+    "type": "spell",
+    "school": "divination",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 2
+      },
+      {
+        "class": "Investigator",
+        "level": 2
+      },
+      {
+        "class": "Magus",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Boiling Blood",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Cleric",
+        "level": 2
+      },
+      {
+        "class": "Oracle",
+        "level": 2
+      },
+      {
+        "class": "Warpriest",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Bungle",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Burrow",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 3
+      },
+      {
+        "class": "Investigator",
+        "level": 3
+      },
+      {
+        "class": "Druid",
+        "level": 3
+      },
+      {
+        "class": "Ranger",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Burst Of Nettles",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Cackling Skull",
+    "type": "spell",
+    "school": "illusion",
+    "levels": [
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Call Construct",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 8
+      },
+      {
+        "class": "Oracle",
+        "level": 8
+      },
+      {
+        "class": "Warpriest",
+        "level": 8
+      },
+      {
+        "class": "Sorcerer",
+        "level": 8
+      },
+      {
+        "class": "Wizard",
+        "level": 8
+      },
+      {
+        "class": "Arcanist",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "name": "Cape Of Wasps",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Caustic Eruption",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "name": "Chord Of Shards",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 1
+      },
+      {
+        "class": "Skald",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Circle Of Clarity",
+    "type": "spell",
+    "school": "abjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 7
+      },
+      {
+        "class": "Oracle",
+        "level": 7
+      },
+      {
+        "class": "Warpriest",
+        "level": 7
+      },
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "name": "Cold Ice Strike",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 6
+      },
+      {
+        "class": "Oracle",
+        "level": 6
+      },
+      {
+        "class": "Warpriest",
+        "level": 6
+      },
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Compassionate Ally",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Cleric",
+        "level": 2
+      },
+      {
+        "class": "Oracle",
+        "level": 2
+      },
+      {
+        "class": "Warpriest",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Conjure Black Pudding",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      },
+      {
+        "class": "Summoner",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Contagion, Greater",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 5
+      },
+      {
+        "class": "Oracle",
+        "level": 5
+      },
+      {
+        "class": "Warpriest",
+        "level": 5
+      },
+      {
+        "class": "Druid",
+        "level": 5
+      },
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      },
+      {
+        "class": "Witch",
+        "level": 5
+      },
+      {
+        "class": "Hunter",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Control Construct",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "name": "Control Summoned Creature",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 3
+      },
+      {
+        "class": "Skald",
+        "level": 3
+      },
+      {
+        "class": "Cleric",
+        "level": 4
+      },
+      {
+        "class": "Oracle",
+        "level": 4
+      },
+      {
+        "class": "Warpriest",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Summoner",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Corrosive Consumption",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Magus",
+        "level": 5
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Corrosive Touch",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Magus",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Summoner",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Countless Eyes",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 3
+      },
+      {
+        "class": "Investigator",
+        "level": 3
+      },
+      {
+        "class": "Inquisitor",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Create Demiplane",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 8
+      },
+      {
+        "class": "Oracle",
+        "level": 8
+      },
+      {
+        "class": "Warpriest",
+        "level": 8
+      },
+      {
+        "class": "Sorcerer",
+        "level": 8
+      },
+      {
+        "class": "Wizard",
+        "level": 8
+      },
+      {
+        "class": "Arcanist",
+        "level": 8
+      },
+      {
+        "class": "Summoner",
+        "level": 6
+      },
+      {
+        "class": "Witch",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "name": "Create Demiplane, Greater",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 9
+      },
+      {
+        "class": "Oracle",
+        "level": 9
+      },
+      {
+        "class": "Warpriest",
+        "level": 9
+      },
+      {
+        "class": "Sorcerer",
+        "level": 9
+      },
+      {
+        "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
+        "level": 9
+      },
+      {
+        "class": "Witch",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "name": "Create Demiplane, Lesser",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 7
+      },
+      {
+        "class": "Oracle",
+        "level": 7
+      },
+      {
+        "class": "Warpriest",
+        "level": 7
+      },
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      },
+      {
+        "class": "Summoner",
+        "level": 5
+      },
+      {
+        "class": "Witch",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "name": "Curse, Major",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 5
+      },
+      {
+        "class": "Oracle",
+        "level": 5
+      },
+      {
+        "class": "Warpriest",
+        "level": 5
+      },
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      },
+      {
+        "class": "Witch",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Curse Of Disgust",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 3
+      },
+      {
+        "class": "Skald",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      },
+      {
+        "class": "Witch",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Curse Of Magic Negation",
+    "type": "spell",
+    "school": "abjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 5
+      },
+      {
+        "class": "Oracle",
+        "level": 5
+      },
+      {
+        "class": "Warpriest",
+        "level": 5
+      },
+      {
+        "class": "Inquisitor",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Cursed Earth",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 9
+      },
+      {
+        "class": "Oracle",
+        "level": 9
+      },
+      {
+        "class": "Warpriest",
+        "level": 9
+      },
+      {
+        "class": "Sorcerer",
+        "level": 9
+      },
+      {
+        "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
+        "level": 9
+      },
+      {
+        "class": "Witch",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "name": "Cushioning Bands",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Summoner",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Dance Of A Hundred Cuts",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 4
+      },
+      {
+        "class": "Skald",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Dance Of A Thousand Cuts",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 6
+      },
+      {
+        "class": "Skald",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Darkvision, Greater",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 4
+      },
+      {
+        "class": "Investigator",
+        "level": 4
+      },
+      {
+        "class": "Antipaladin",
+        "level": 4
+      },
+      {
+        "class": "Ranger",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Daze, Mass",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 4
+      },
+      {
+        "class": "Skald",
+        "level": 4
+      },
+      {
+        "class": "Inquisitor",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Summoner",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Decompose Corpse",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 1
+      },
+      {
+        "class": "Oracle",
+        "level": 1
+      },
+      {
+        "class": "Warpriest",
+        "level": 1
+      },
+      {
+        "class": "Druid",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Defensive Shock",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 2
+      },
+      {
+        "class": "Investigator",
+        "level": 2
+      },
+      {
+        "class": "Magus",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Delay Pain",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Cleric",
+        "level": 2
+      },
+      {
+        "class": "Oracle",
+        "level": 2
+      },
+      {
+        "class": "Warpriest",
+        "level": 2
+      },
+      {
+        "class": "Inquisitor",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Delusional Pride",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 1
+      },
+      {
+        "class": "Skald",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Diagnose Disease",
+    "type": "spell",
+    "school": "divination",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 1
+      },
+      {
+        "class": "Oracle",
+        "level": 1
+      },
+      {
+        "class": "Warpriest",
+        "level": 1
+      },
+      {
+        "class": "Druid",
+        "level": 1
+      },
+      {
+        "class": "Paladin",
+        "level": 1
+      },
+      {
+        "class": "Ranger",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Disfiguring Touch",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 2
+      },
+      {
+        "class": "Oracle",
+        "level": 2
+      },
+      {
+        "class": "Warpriest",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Disguise Other",
+    "type": "spell",
+    "school": "illusion",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Inquisitor",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Distracting Cacophony",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Distressing Tone",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Inquisitor",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Divine Pursuit",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Inquisitor",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Dread Bolt",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 2
+      },
+      {
+        "class": "Oracle",
+        "level": 2
+      },
+      {
+        "class": "Warpriest",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Eagle Aerie",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 6
+      },
+      {
+        "class": "Summoner",
+        "level": 6
+      },
+      {
+        "class": "Hunter",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Ear-Piercing Scream",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 1
+      },
+      {
+        "class": "Skald",
+        "level": 1
+      },
+      {
+        "class": "Inquisitor",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Echolocation",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 4
+      },
+      {
+        "class": "Investigator",
+        "level": 4
+      },
+      {
+        "class": "Bard",
+        "level": 4
+      },
+      {
+        "class": "Skald",
+        "level": 4
+      },
+      {
+        "class": "Druid",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      },
+      {
+        "class": "Hunter",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Eldritch Fever",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Inquisitor",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Envious Urge",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 4
+      },
+      {
+        "class": "Skald",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Epidemic",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 6
+      },
+      {
+        "class": "Oracle",
+        "level": 6
+      },
+      {
+        "class": "Warpriest",
+        "level": 6
+      },
+      {
+        "class": "Druid",
+        "level": 6
+      },
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      },
+      {
+        "class": "Witch",
+        "level": 6
+      },
+      {
+        "class": "Hunter",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Eruptive Pustules",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 3
+      },
+      {
+        "class": "Investigator",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Excruciating Deformation",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Exquisite Accompaniment",
+    "type": "spell",
+    "school": "illusion",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 3
+      },
+      {
+        "class": "Skald",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "False Life, Greater",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 4
+      },
+      {
+        "class": "Investigator",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Familiar Melding",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Fickle Winds",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 5
+      },
+      {
+        "class": "Oracle",
+        "level": 5
+      },
+      {
+        "class": "Warpriest",
+        "level": 5
+      },
+      {
+        "class": "Druid",
+        "level": 5
+      },
+      {
+        "class": "Ranger",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      },
+      {
+        "class": "Hunter",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Fleshworm Infestation",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 4
+      },
+      {
+        "class": "Oracle",
+        "level": 4
+      },
+      {
+        "class": "Warpriest",
+        "level": 4
+      },
+      {
+        "class": "Inquisitor",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Forbid Action",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 1
+      },
+      {
+        "class": "Oracle",
+        "level": 1
+      },
+      {
+        "class": "Warpriest",
+        "level": 1
+      },
+      {
+        "class": "Inquisitor",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Forbid Action, Greater",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 5
+      },
+      {
+        "class": "Oracle",
+        "level": 5
+      },
+      {
+        "class": "Warpriest",
+        "level": 5
+      },
+      {
+        "class": "Inquisitor",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Force Hook Charge",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Magus",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Force Punch",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Magus",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Forced Quiet",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 1
+      },
+      {
+        "class": "Skald",
+        "level": 1
+      },
+      {
+        "class": "Inquisitor",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Frigid Touch",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 2
+      },
+      {
+        "class": "Magus",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Frostbite",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 1
+      },
+      {
+        "class": "Magus",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Fumbletongue",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 1
+      },
+      {
+        "class": "Skald",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Fungal Infestation",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Ghostly Disguise",
+    "type": "spell",
+    "school": "illusion",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 2
+      },
+      {
+        "class": "Investigator",
+        "level": 2
+      },
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Inquisitor",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Haunting Choir",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 3
+      },
+      {
+        "class": "Skald",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Haunting Mists",
+    "type": "spell",
+    "school": "illusion",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Hex Ward",
+    "type": "spell",
+    "school": "abjuration",
+    "levels": [
+      {
+        "class": "Inquisitor",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Holy Ice",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 5
+      },
+      {
+        "class": "Oracle",
+        "level": 5
+      },
+      {
+        "class": "Warpriest",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Holy Shield",
+    "type": "spell",
+    "school": "abjuration",
+    "levels": [
+      {
+        "class": "Paladin",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Horn Of Pursuit",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 1
+      },
+      {
+        "class": "Skald",
+        "level": 1
+      },
+      {
+        "class": "Inquisitor",
+        "level": 1
+      },
+      {
+        "class": "Paladin",
+        "level": 1
+      },
+      {
+        "class": "Ranger",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Howling Agony",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Inquisitor",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Ice Body",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      },
+      {
+        "class": "Witch",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "name": "Ice Crystal Teleport",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      },
+      {
+        "class": "Summoner",
+        "level": 5
+      },
+      {
+        "class": "Witch",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Icicle Dagger",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Summoner",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Icy Prison",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Icy Prison, Mass",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 9
+      },
+      {
+        "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "name": "Imbue With Aura",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 2
+      },
+      {
+        "class": "Oracle",
+        "level": 2
+      },
+      {
+        "class": "Warpriest",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Interplanetary Teleport",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 9
+      },
+      {
+        "class": "Oracle",
+        "level": 9
+      },
+      {
+        "class": "Warpriest",
+        "level": 9
+      },
+      {
+        "class": "Sorcerer",
+        "level": 9
+      },
+      {
+        "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "name": "Interrogation",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Inquisitor",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Interrogation, Greater",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Inquisitor",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Joyful Rapture",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 5
+      },
+      {
+        "class": "Skald",
+        "level": 5
+      },
+      {
+        "class": "Cleric",
+        "level": 6
+      },
+      {
+        "class": "Oracle",
+        "level": 6
+      },
+      {
+        "class": "Warpriest",
+        "level": 6
+      },
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "name": "Ki Arrow",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 1
+      },
+      {
+        "class": "Skald",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Ki Leech",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 3
+      },
+      {
+        "class": "Oracle",
+        "level": 3
+      },
+      {
+        "class": "Warpriest",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Ki Shout",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 5
+      },
+      {
+        "class": "Skald",
+        "level": 5
+      },
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "name": "Know The Enemy",
+    "type": "spell",
+    "school": "divination",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 1
+      },
+      {
+        "class": "Oracle",
+        "level": 1
+      },
+      {
+        "class": "Warpriest",
+        "level": 1
+      },
+      {
+        "class": "Inquisitor",
+        "level": 1
+      },
+      {
+        "class": "Paladin",
+        "level": 1
+      },
+      {
+        "class": "Ranger",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Leashed Shackles",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Inquisitor",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Lend Judgment",
+    "type": "spell",
+    "school": "divination",
+    "levels": [
+      {
+        "class": "Inquisitor",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Lend Judgment, Greater",
+    "type": "spell",
+    "school": "divination",
+    "levels": [
+      {
+        "class": "Inquisitor",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Lightning Arc",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Loathsome Veil",
+    "type": "spell",
+    "school": "illusion",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Lunar Veil",
+    "type": "spell",
+    "school": "illusion",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 7
+      },
+      {
+        "class": "Oracle",
+        "level": 7
+      },
+      {
+        "class": "Warpriest",
+        "level": 7
+      },
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      },
+      {
+        "class": "Witch",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "name": "Mad Hallucination",
+    "type": "spell",
+    "school": "illusion",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Mad Monkeys",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 3
+      },
+      {
+        "class": "Skald",
+        "level": 3
+      },
+      {
+        "class": "Druid",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Summoner",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Malfunction",
+    "type": "spell",
+    "school": "transformation Level sorcerer/wizard 4"
+  },
+  {
+    "name": "Malicious Spite",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 3
+      },
+      {
+        "class": "Skald",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Marionette Possession",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 3
+      },
+      {
+        "class": "Investigator",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Summoner",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Masterwork Transformation",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Cleric",
+        "level": 2
+      },
+      {
+        "class": "Oracle",
+        "level": 2
+      },
+      {
+        "class": "Warpriest",
+        "level": 2
+      },
+      {
+        "class": "Druid",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Miserable Pity",
+    "type": "spell",
+    "school": "abjuration",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Monstrous Physique I",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 3
+      },
+      {
+        "class": "Investigator",
+        "level": 3
+      },
+      {
+        "class": "Magus",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Monstrous Physique II",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 4
+      },
+      {
+        "class": "Investigator",
+        "level": 4
+      },
+      {
+        "class": "Magus",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Monstrous Physique III",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 5
+      },
+      {
+        "class": "Investigator",
+        "level": 5
+      },
+      {
+        "class": "Magus",
+        "level": 5
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Monstrous Physique IV",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 6
+      },
+      {
+        "class": "Investigator",
+        "level": 6
+      },
+      {
+        "class": "Magus",
+        "level": 6
+      },
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Murderous Command",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Antipaladin",
+        "level": 1
+      },
+      {
+        "class": "Cleric",
+        "level": 1
+      },
+      {
+        "class": "Oracle",
+        "level": 1
+      },
+      {
+        "class": "Warpriest",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Oppressive Boredom",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Oracle's Vessel",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Oracle",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Orb Of The Void",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 8
+      },
+      {
+        "class": "Oracle",
+        "level": 8
+      },
+      {
+        "class": "Warpriest",
+        "level": 8
+      },
+      {
+        "class": "Sorcerer",
+        "level": 8
+      },
+      {
+        "class": "Wizard",
+        "level": 8
+      },
+      {
+        "class": "Arcanist",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "name": "Overwhelming Grief",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 3
+      },
+      {
+        "class": "Skald",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Overwhelming Presence",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 6
+      },
+      {
+        "class": "Skald",
+        "level": 6
+      },
+      {
+        "class": "Cleric",
+        "level": 9
+      },
+      {
+        "class": "Oracle",
+        "level": 9
+      },
+      {
+        "class": "Warpriest",
+        "level": 9
+      },
+      {
+        "class": "Inquisitor",
+        "level": 6
+      },
+      {
+        "class": "Sorcerer",
+        "level": 9
+      },
+      {
+        "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "name": "Pernicious Poison",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Antipaladin",
+        "level": 2
+      },
+      {
+        "class": "Druid",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Persuasive Goad",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Inquisitor",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Piercing Shriek",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Plague Carrier",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 4
+      },
+      {
+        "class": "Oracle",
+        "level": 4
+      },
+      {
+        "class": "Warpriest",
+        "level": 4
+      },
+      {
+        "class": "Druid",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      },
+      {
+        "class": "Witch",
+        "level": 5
+      },
+      {
+        "class": "Hunter",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Plague Storm",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 6
+      },
+      {
+        "class": "Oracle",
+        "level": 6
+      },
+      {
+        "class": "Warpriest",
+        "level": 6
+      },
+      {
+        "class": "Druid",
+        "level": 6
+      },
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      },
+      {
+        "class": "Witch",
+        "level": 6
+      },
+      {
+        "class": "Hunter",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Play Instrument",
+    "type": "spell",
+    "school": "divination",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 1
+      },
+      {
+        "class": "Skald",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Polar Midnight",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 9
+      },
+      {
+        "class": "Oracle",
+        "level": 9
+      },
+      {
+        "class": "Warpriest",
+        "level": 9
+      },
+      {
+        "class": "Druid",
+        "level": 9
+      },
+      {
+        "class": "Witch",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "name": "Polypurpose Panacea",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 1
+      },
+      {
+        "class": "Investigator",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Possess Object",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      },
+      {
+        "class": "Witch",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Prediction Of Failure",
+    "type": "spell",
+    "school": "divination",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 8
+      },
+      {
+        "class": "Wizard",
+        "level": 8
+      },
+      {
+        "class": "Arcanist",
+        "level": 8
+      },
+      {
+        "class": "Witch",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "name": "Primal Scream",
+    "type": "spell",
+    "school": "abjuration",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 4
+      },
+      {
+        "class": "Skald",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Protective Penumbra",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 2
+      },
+      {
+        "class": "Oracle",
+        "level": 2
+      },
+      {
+        "class": "Warpriest",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Rain Of Frogs",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 3
+      },
+      {
+        "class": "Skald",
+        "level": 3
+      },
+      {
+        "class": "Druid",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Summoner",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Raise Animal Companion",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 5
+      },
+      {
+        "class": "Paladin",
+        "level": 4
+      },
+      {
+        "class": "Ranger",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Rapid Repair",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 5
+      },
+      {
+        "class": "Oracle",
+        "level": 5
+      },
+      {
+        "class": "Warpriest",
+        "level": 5
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Ray Of Sickening",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 1
+      },
+      {
+        "class": "Oracle",
+        "level": 1
+      },
+      {
+        "class": "Warpriest",
+        "level": 1
+      },
+      {
+        "class": "Druid",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Summoner",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Reckless Infatuation",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Remove Sickness",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 1
+      },
+      {
+        "class": "Oracle",
+        "level": 1
+      },
+      {
+        "class": "Warpriest",
+        "level": 1
+      },
+      {
+        "class": "Druid",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Reprobation",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 5
+      },
+      {
+        "class": "Oracle",
+        "level": 5
+      },
+      {
+        "class": "Warpriest",
+        "level": 5
+      },
+      {
+        "class": "Druid",
+        "level": 5
+      },
+      {
+        "class": "Inquisitor",
+        "level": 4
+      },
+      {
+        "class": "Paladin",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Resonating Word",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 5
+      },
+      {
+        "class": "Skald",
+        "level": 5
+      },
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "name": "Restore Corpse",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 1
+      },
+      {
+        "class": "Oracle",
+        "level": 1
+      },
+      {
+        "class": "Warpriest",
+        "level": 1
+      },
+      {
+        "class": "Druid",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Restore Eidolon",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Summoner",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Restore Eidolon, Lesser",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Summoner",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Ride The Lightning",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 9
+      },
+      {
+        "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "name": "Ride The Waves",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 4
+      },
+      {
+        "class": "Oracle",
+        "level": 4
+      },
+      {
+        "class": "Warpriest",
+        "level": 4
+      },
+      {
+        "class": "Druid",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Sanctify Corpse",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 1
+      },
+      {
+        "class": "Oracle",
+        "level": 1
+      },
+      {
+        "class": "Warpriest",
+        "level": 1
+      },
+      {
+        "class": "Inquisitor",
+        "level": 1
+      },
+      {
+        "class": "Paladin",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Sands Of Time",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 3
+      },
+      {
+        "class": "Oracle",
+        "level": 3
+      },
+      {
+        "class": "Warpriest",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Scouring Winds",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 7
+      },
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      },
+      {
+        "class": "Witch",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "name": "Sculpt Simulacrum",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Serenity",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 4
+      },
+      {
+        "class": "Skald",
+        "level": 4
+      },
+      {
+        "class": "Cleric",
+        "level": 5
+      },
+      {
+        "class": "Oracle",
+        "level": 5
+      },
+      {
+        "class": "Warpriest",
+        "level": 5
+      },
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Shadow Step",
+    "type": "spell",
+    "school": "illusion",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 4
+      },
+      {
+        "class": "Skald",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Shadow Weapon",
+    "type": "spell",
+    "school": "illusion",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Shadowbard",
+    "type": "spell",
+    "school": "illusion"
+  },
+  {
+    "name": "Shard Of Chaos",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 2
+      },
+      {
+        "class": "Oracle",
+        "level": 2
+      },
+      {
+        "class": "Warpriest",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Share Memory",
+    "type": "spell",
+    "school": "divination",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Silk To Steel",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Simulacrum, Lesser",
+    "type": "spell",
+    "school": "illusion",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Skinsend",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 2
+      },
+      {
+        "class": "Investigator",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Smug Narcissism",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 3
+      },
+      {
+        "class": "Skald",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      },
+      {
+        "class": "Witch",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Snapdragon Fireworks",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Sonic Thrust",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 4
+      },
+      {
+        "class": "Skald",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Soothe Construct",
+    "type": "spell",
+    "school": "abjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 4
+      },
+      {
+        "class": "Oracle",
+        "level": 4
+      },
+      {
+        "class": "Warpriest",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Spear Of Purity",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 2
+      },
+      {
+        "class": "Oracle",
+        "level": 2
+      },
+      {
+        "class": "Warpriest",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Spit Venom",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 4
+      },
+      {
+        "class": "Oracle",
+        "level": 4
+      },
+      {
+        "class": "Warpriest",
+        "level": 4
+      },
+      {
+        "class": "Druid",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Steal Voice",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Strangling Hair",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Summon Elder Worm",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "name": "Summon Froghemoth",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "name": "Summon Minor Ally",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 1
+      },
+      {
+        "class": "Ranger",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Summon Minor Monster",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Antipaladin",
+        "level": 1
+      },
+      {
+        "class": "Bard",
+        "level": 1
+      },
+      {
+        "class": "Skald",
+        "level": 1
+      },
+      {
+        "class": "Cleric",
+        "level": 1
+      },
+      {
+        "class": "Oracle",
+        "level": 1
+      },
+      {
+        "class": "Warpriest",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Summoner",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Surmount Affliction",
+    "type": "spell",
+    "school": "abjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 2
+      },
+      {
+        "class": "Oracle",
+        "level": 2
+      },
+      {
+        "class": "Warpriest",
+        "level": 2
+      },
+      {
+        "class": "Inquisitor",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Symbol Of Healing",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 3
+      },
+      {
+        "class": "Oracle",
+        "level": 3
+      },
+      {
+        "class": "Warpriest",
+        "level": 3
+      },
+      {
+        "class": "Paladin",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Symbol Of Mirroring",
+    "type": "spell",
+    "school": "illusion",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Symbol Of Revelation",
+    "type": "spell",
+    "school": "divination",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 4
+      },
+      {
+        "class": "Oracle",
+        "level": 4
+      },
+      {
+        "class": "Warpriest",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Symbol Of Scrying",
+    "type": "spell",
+    "school": "divination",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 5
+      },
+      {
+        "class": "Oracle",
+        "level": 5
+      },
+      {
+        "class": "Warpriest",
+        "level": 5
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      },
+      {
+        "class": "Witch",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Symbol Of Sealing",
+    "type": "spell",
+    "school": "abjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 6
+      },
+      {
+        "class": "Oracle",
+        "level": 6
+      },
+      {
+        "class": "Warpriest",
+        "level": 6
+      },
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      },
+      {
+        "class": "Witch",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Symbol Of Slowing",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 4
+      },
+      {
+        "class": "Oracle",
+        "level": 4
+      },
+      {
+        "class": "Warpriest",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Symbol Of Strife",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 9
+      },
+      {
+        "class": "Oracle",
+        "level": 9
+      },
+      {
+        "class": "Warpriest",
+        "level": 9
+      },
+      {
+        "class": "Sorcerer",
+        "level": 9
+      },
+      {
+        "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
+        "level": 9
+      },
+      {
+        "class": "Witch",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "name": "Symbol Of Vulnerability",
+    "type": "spell",
+    "school": "abjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 9
+      },
+      {
+        "class": "Oracle",
+        "level": 9
+      },
+      {
+        "class": "Warpriest",
+        "level": 9
+      },
+      {
+        "class": "Sorcerer",
+        "level": 9
+      },
+      {
+        "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
+        "level": 9
+      },
+      {
+        "class": "Witch",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "name": "Tar Ball",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Temporary Resurrection",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      },
+      {
+        "class": "Witch",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "name": "Terrible Remorse",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 3
+      },
+      {
+        "class": "Skald",
+        "level": 3
+      },
+      {
+        "class": "Cleric",
+        "level": 4
+      },
+      {
+        "class": "Oracle",
+        "level": 4
+      },
+      {
+        "class": "Warpriest",
+        "level": 4
+      },
+      {
+        "class": "Inquisitor",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Touch Of Slime",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 4
+      },
+      {
+        "class": "Investigator",
+        "level": 4
+      },
+      {
+        "class": "Druid",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Toxic Gift",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Antipaladin",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Transmute Blood To Acid",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 9
+      },
+      {
+        "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "name": "Unadulterated Loathing",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Antipaladin",
+        "level": 2
+      },
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Unbreakable Construct",
+    "type": "spell",
+    "school": "abjuration",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Undead Anatomy I",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 3
+      },
+      {
+        "class": "Investigator",
+        "level": 3
+      },
+      {
+        "class": "Magus",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Undead Anatomy II",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 5
+      },
+      {
+        "class": "Investigator",
+        "level": 5
+      },
+      {
+        "class": "Magus",
+        "level": 5
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Undead Anatomy III",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 6
+      },
+      {
+        "class": "Investigator",
+        "level": 6
+      },
+      {
+        "class": "Magus",
+        "level": 6
+      },
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Undead Anatomy IV",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Sorcerer",
+        "level": 8
+      },
+      {
+        "class": "Wizard",
+        "level": 8
+      },
+      {
+        "class": "Arcanist",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "name": "Unholy Ice",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 5
+      },
+      {
+        "class": "Oracle",
+        "level": 5
+      },
+      {
+        "class": "Warpriest",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Unholy Sword",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Antipaladin",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Unnatural Lust",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 1
+      },
+      {
+        "class": "Skald",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Unprepared Combatant",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 1
+      },
+      {
+        "class": "Skald",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Unshakable Chill",
+    "type": "spell",
+    "school": "necromancy",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Utter Contempt",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Antipaladin",
+        "level": 3
+      },
+      {
+        "class": "Bard",
+        "level": 4
+      },
+      {
+        "class": "Skald",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Vengeful Outrage",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 5
+      },
+      {
+        "class": "Skald",
+        "level": 5
+      },
+      {
+        "class": "Sorcerer",
+        "level": 6
+      },
+      {
+        "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      },
+      {
+        "class": "Witch",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "name": "Vermin Shape I",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 4
+      },
+      {
+        "class": "Investigator",
+        "level": 4
+      },
+      {
+        "class": "Druid",
+        "level": 3
+      },
+      {
+        "class": "Magus",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Vermin Shape II",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 5
+      },
+      {
+        "class": "Investigator",
+        "level": 5
+      },
+      {
+        "class": "Druid",
+        "level": 4
+      },
+      {
+        "class": "Magus",
+        "level": 5
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Vestment Of The Champion",
+    "type": "spell",
+    "school": "abjuration",
+    "levels": [
+      {
+        "class": "Antipaladin",
+        "level": 2
+      },
+      {
+        "class": "Paladin",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Virtuoso Performance",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 4
+      },
+      {
+        "class": "Skald",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Vision Of Hell",
+    "type": "spell",
+    "school": "illusion",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 3
+      },
+      {
+        "class": "Skald",
+        "level": 3
+      },
+      {
+        "class": "Cleric",
+        "level": 3
+      },
+      {
+        "class": "Oracle",
+        "level": 3
+      },
+      {
+        "class": "Warpriest",
+        "level": 3
+      },
+      {
+        "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Vitriolic Mist",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 4
+      },
+      {
+        "class": "Investigator",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Summoner",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Vocal Alteration",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 1
+      },
+      {
+        "class": "Investigator",
+        "level": 1
+      },
+      {
+        "class": "Bard",
+        "level": 1
+      },
+      {
+        "class": "Skald",
+        "level": 1
+      },
+      {
+        "class": "Inquisitor",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Volcanic Storm",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Druid",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 4
+      },
+      {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Witch",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "name": "Wall Of Sound",
+    "type": "spell",
+    "school": "evocation",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 4
+      },
+      {
+        "class": "Skald",
+        "level": 4
+      },
+      {
+        "class": "Magus",
+        "level": 4
+      },
+      {
+        "class": "Sorcerer",
+        "level": 5
+      },
+      {
+        "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "name": "Wartrain Mount",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Antipaladin",
+        "level": 1
+      },
+      {
+        "class": "Bard",
+        "level": 2
+      },
+      {
+        "class": "Skald",
+        "level": 2
+      },
+      {
+        "class": "Druid",
+        "level": 2
+      },
+      {
+        "class": "Inquisitor",
+        "level": 1
+      },
+      {
+        "class": "Paladin",
+        "level": 1
+      },
+      {
+        "class": "Ranger",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Waves Of Ecstasy",
+    "type": "spell",
+    "school": "enchantment",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 6
+      },
+      {
+        "class": "Skald",
+        "level": 6
+      },
+      {
+        "class": "Cleric",
+        "level": 7
+      },
+      {
+        "class": "Oracle",
+        "level": 7
+      },
+      {
+        "class": "Warpriest",
+        "level": 7
+      },
+      {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
+        "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      },
+      {
+        "class": "Witch",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "name": "Web Shelter",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 2
+      },
+      {
+        "class": "Oracle",
+        "level": 2
+      },
+      {
+        "class": "Warpriest",
+        "level": 2
+      },
+      {
+        "class": "Druid",
+        "level": 2
+      },
+      {
+        "class": "Ranger",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Summoner",
+        "level": 2
+      },
+      {
+        "class": "Witch",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "name": "Witness",
+    "type": "spell",
+    "school": "divination",
+    "levels": [
+      {
+        "class": "Bard",
+        "level": 3
+      },
+      {
+        "class": "Skald",
+        "level": 3
+      },
+      {
+        "class": "Inquisitor",
+        "level": 3
+      },
+      {
+        "class": "Witch",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "name": "Wooden Phalanx",
+    "type": "spell",
+    "school": "conjuration",
+    "levels": [
+      {
+        "class": "Cleric",
+        "level": 9
+      },
+      {
+        "class": "Oracle",
+        "level": 9
+      },
+      {
+        "class": "Warpriest",
+        "level": 9
+      },
+      {
+        "class": "Sorcerer",
+        "level": 9
+      },
+      {
+        "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "name": "Word Of Resolve",
+    "type": "spell",
+    "school": "abjuration",
+    "levels": [
+      {
+        "class": "Paladin",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Youthful Appearance",
+    "type": "spell",
+    "school": "transmutation",
+    "levels": [
+      {
+        "class": "Alchemist",
+        "level": 1
+      },
+      {
+        "class": "Investigator",
+        "level": 1
+      },
+      {
+        "class": "Bard",
+        "level": 1
+      },
+      {
+        "class": "Skald",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
+        "level": 1
+      },
+      {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      }
+    ]
+  }
+]

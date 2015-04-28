@@ -20,27 +20,7 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 2
-      },
-      {
         "class": "Druid",
-        "level": 2
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
         "level": 2
       },
       {
@@ -54,6 +34,14 @@
       {
         "class": "Wizard",
         "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
+        "level": 2
       }
     ]
   },
@@ -63,23 +51,19 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 4
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 4
-      },
-      {
         "class": "Sorcerer",
         "level": 4
       },
       {
-        "class": "Summoner",
+        "class": "Wizard",
         "level": 4
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Summoner",
         "level": 4
       }
     ]
@@ -105,11 +89,11 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Hunter",
+        "class": "Ranger",
         "level": 2
       },
       {
-        "class": "Ranger",
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -120,23 +104,7 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
         "class": "Druid",
-        "level": 1
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
         "level": 1
       },
       {
@@ -145,6 +113,14 @@
       },
       {
         "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -174,7 +150,7 @@
         "level": 1
       },
       {
-        "class": "Arcanist",
+        "class": "Investigator",
         "level": 1
       },
       {
@@ -182,31 +158,15 @@
         "level": 1
       },
       {
-        "class": "Druid",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Investigator",
-        "level": 1
-      },
-      {
         "class": "Oracle",
+        "level": 1
+      },
+      {
+        "class": "Warpriest",
+        "level": 1
+      },
+      {
+        "class": "Druid",
         "level": 1
       },
       {
@@ -218,15 +178,19 @@
         "level": 1
       },
       {
+        "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
         "class": "Summoner",
         "level": 1
       },
       {
-        "class": "Warpriest",
-        "level": 1
-      },
-      {
-        "class": "Wizard",
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -237,35 +201,7 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 3
-      },
-      {
-        "class": "Bloodrager",
-        "level": 3
-      },
-      {
         "class": "Druid",
-        "level": 3
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Magus",
         "level": 3
       },
       {
@@ -273,11 +209,19 @@
         "level": 3
       },
       {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
         "class": "Summoner",
         "level": 3
       },
       {
-        "class": "Wizard",
+        "class": "Hunter",
         "level": 3
       }
     ]
@@ -303,18 +247,6 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
         "class": "Ranger",
         "level": 2
       },
@@ -324,6 +256,14 @@
       },
       {
         "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -338,15 +278,11 @@
         "level": 2
       },
       {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
         "class": "Ranger",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -361,15 +297,11 @@
         "level": 1
       },
       {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
         "class": "Ranger",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -384,15 +316,11 @@
         "level": 4
       },
       {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
         "class": "Ranger",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
         "level": 3
       }
     ]
@@ -407,15 +335,11 @@
         "level": 5
       },
       {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
         "class": "Ranger",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
         "level": 4
       }
     ]
@@ -437,35 +361,7 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 4
-      },
-      {
-        "class": "Bloodrager",
-        "level": 4
-      },
-      {
         "class": "Druid",
-        "level": 4
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 4
-      },
-      {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
-        "class": "Magus",
-        "level": 4
-      },
-      {
-        "class": "Shaman",
         "level": 4
       },
       {
@@ -474,6 +370,14 @@
       },
       {
         "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
         "level": 4
       }
     ]
@@ -563,11 +467,11 @@
         "level": 2
       },
       {
-        "class": "Paladin",
+        "class": "Warpriest",
         "level": 2
       },
       {
-        "class": "Warpriest",
+        "class": "Paladin",
         "level": 2
       }
     ]
@@ -601,15 +505,11 @@
         "level": 5
       },
       {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
         "class": "Ranger",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
         "level": 4
       }
     ]
@@ -620,23 +520,15 @@
     "school": "divination",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 3
-      },
-      {
         "class": "Bard",
         "level": 2
       },
       {
-        "class": "Bloodrager",
-        "level": 3
+        "class": "Skald",
+        "level": 2
       },
       {
         "class": "Cleric",
-        "level": 3
-      },
-      {
-        "class": "Inquisitor",
         "level": 3
       },
       {
@@ -644,19 +536,23 @@
         "level": 3
       },
       {
-        "class": "Skald",
-        "level": 2
+        "class": "Warpriest",
+        "level": 3
+      },
+      {
+        "class": "Inquisitor",
+        "level": 3
       },
       {
         "class": "Sorcerer",
         "level": 3
       },
       {
-        "class": "Warpriest",
+        "class": "Wizard",
         "level": 3
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
         "level": 3
       }
     ]
@@ -671,19 +567,19 @@
         "level": 3
       },
       {
-        "class": "Hunter",
-        "level": 2
+        "class": "Investigator",
+        "level": 3
       },
       {
         "class": "Inquisitor",
         "level": 2
       },
       {
-        "class": "Investigator",
-        "level": 3
+        "class": "Ranger",
+        "level": 2
       },
       {
-        "class": "Ranger",
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -698,15 +594,11 @@
         "level": 4
       },
       {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
         "class": "Ranger",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
         "level": 3
       }
     ]
@@ -758,11 +650,11 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Hunter",
+        "class": "Ranger",
         "level": 4
       },
       {
-        "class": "Ranger",
+        "class": "Hunter",
         "level": 4
       }
     ]
@@ -795,19 +687,15 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
-        "class": "Bloodrager",
-        "level": 1
-      },
-      {
         "class": "Sorcerer",
         "level": 1
       },
       {
         "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
         "level": 1
       }
     ]
@@ -848,39 +736,7 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 2
-      },
-      {
-        "class": "Bloodrager",
-        "level": 2
-      },
-      {
         "class": "Druid",
-        "level": 2
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Magus",
-        "level": 2
-      },
-      {
-        "class": "Shaman",
         "level": 2
       },
       {
@@ -888,11 +744,19 @@
         "level": 2
       },
       {
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
         "class": "Witch",
         "level": 2
       },
       {
-        "class": "Wizard",
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -944,23 +808,15 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 4
-      },
-      {
-        "class": "Bloodrager",
-        "level": 4
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 4
-      },
-      {
         "class": "Sorcerer",
         "level": 4
       },
       {
         "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
         "level": 4
       }
     ]
@@ -975,15 +831,11 @@
         "level": 1
       },
       {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
         "class": "Ranger",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -994,11 +846,11 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
+        "class": "Bard",
         "level": 3
       },
       {
-        "class": "Bard",
+        "class": "Skald",
         "level": 3
       },
       {
@@ -1006,28 +858,8 @@
         "level": 2
       },
       {
-        "class": "Elementalist Wizard",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
         "class": "Ranger",
         "level": 2
-      },
-      {
-        "class": "Skald",
-        "level": 3
       },
       {
         "class": "Sorcerer",
@@ -1036,6 +868,14 @@
       {
         "class": "Wizard",
         "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
+        "level": 2
       }
     ]
   },
@@ -1089,11 +929,11 @@
     "school": "illusion",
     "levels": [
       {
-        "class": "Hunter",
+        "class": "Ranger",
         "level": 2
       },
       {
-        "class": "Ranger",
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -1104,15 +944,7 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 9
-      },
-      {
         "class": "Druid",
-        "level": 9
-      },
-      {
-        "class": "Elementalist Wizard",
         "level": 9
       },
       {
@@ -1121,6 +953,10 @@
       },
       {
         "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
         "level": 9
       }
     ]
@@ -1135,16 +971,16 @@
         "level": 5
       },
       {
-        "class": "Inquisitor",
-        "level": 6
-      },
-      {
         "class": "Oracle",
         "level": 5
       },
       {
         "class": "Warpriest",
         "level": 5
+      },
+      {
+        "class": "Inquisitor",
+        "level": 6
       }
     ]
   },
@@ -1154,16 +990,8 @@
     "school": "enchantment",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 6
-      },
-      {
         "class": "Bard",
         "level": 5
-      },
-      {
-        "class": "Shaman",
-        "level": 7
       },
       {
         "class": "Skald",
@@ -1174,11 +1002,15 @@
         "level": 6
       },
       {
-        "class": "Witch",
+        "class": "Wizard",
         "level": 6
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
+        "level": 6
+      },
+      {
+        "class": "Witch",
         "level": 6
       }
     ]
@@ -1193,15 +1025,11 @@
         "level": 1
       },
       {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
         "class": "Ranger",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -1212,35 +1040,7 @@
     "school": "abjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 3
-      },
-      {
-        "class": "Bloodrager",
-        "level": 3
-      },
-      {
         "class": "Druid",
-        "level": 3
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Magus",
         "level": 3
       },
       {
@@ -1253,6 +1053,14 @@
       },
       {
         "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
         "level": 3
       }
     ]
@@ -1274,23 +1082,15 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 6
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 6
-      },
-      {
-        "class": "Magus",
-        "level": 6
-      },
-      {
         "class": "Sorcerer",
         "level": 6
       },
       {
         "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
         "level": 6
       }
     ]
@@ -1305,11 +1105,11 @@
         "level": 3
       },
       {
-        "class": "Inquisitor",
+        "class": "Skald",
         "level": 3
       },
       {
-        "class": "Skald",
+        "class": "Inquisitor",
         "level": 3
       }
     ]
@@ -1350,15 +1150,15 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
         "class": "Sorcerer",
         "level": 1
       },
       {
         "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
         "level": 1
       }
     ]
@@ -1373,10 +1173,6 @@
         "level": 1
       },
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
         "class": "Investigator",
         "level": 1
       },
@@ -1387,6 +1183,10 @@
       {
         "class": "Wizard",
         "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
       }
     ]
   },
@@ -1396,23 +1196,19 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 2
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 2
-      },
-      {
         "class": "Sorcerer",
         "level": 2
       },
       {
-        "class": "Summoner",
+        "class": "Wizard",
         "level": 2
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Summoner",
         "level": 2
       }
     ]
@@ -1423,11 +1219,11 @@
     "school": "divination",
     "levels": [
       {
-        "class": "Arcanist",
+        "class": "Bard",
         "level": 2
       },
       {
-        "class": "Bard",
+        "class": "Skald",
         "level": 2
       },
       {
@@ -1435,23 +1231,7 @@
         "level": 3
       },
       {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
         "class": "Ranger",
-        "level": 2
-      },
-      {
-        "class": "Skald",
         "level": 2
       },
       {
@@ -1460,6 +1240,14 @@
       },
       {
         "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -1474,15 +1262,11 @@
         "level": 3
       },
       {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
         "class": "Witch",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
         "level": 3
       }
     ]
@@ -1493,43 +1277,7 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
         "class": "Bard",
-        "level": 1
-      },
-      {
-        "class": "Cleric",
-        "level": 1
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Oracle",
-        "level": 1
-      },
-      {
-        "class": "Ranger",
-        "level": 1
-      },
-      {
-        "class": "Shaman",
         "level": 1
       },
       {
@@ -1537,7 +1285,11 @@
         "level": 1
       },
       {
-        "class": "Sorcerer",
+        "class": "Cleric",
+        "level": 1
+      },
+      {
+        "class": "Oracle",
         "level": 1
       },
       {
@@ -1545,11 +1297,27 @@
         "level": 1
       },
       {
-        "class": "Witch",
+        "class": "Ranger",
+        "level": 1
+      },
+      {
+        "class": "Sorcerer",
         "level": 1
       },
       {
         "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Witch",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -1590,12 +1358,12 @@
     "school": "abjuration",
     "levels": [
       {
-        "class": "Antipaladin",
-        "level": 3
-      },
-      {
         "class": "Inquisitor",
         "level": 4
+      },
+      {
+        "class": "Antipaladin",
+        "level": 3
       }
     ]
   },
@@ -1605,15 +1373,15 @@
     "school": "abjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 7
-      },
-      {
         "class": "Sorcerer",
         "level": 7
       },
       {
         "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
         "level": 7
       }
     ]
@@ -1643,11 +1411,11 @@
         "level": 4
       },
       {
-        "class": "Inquisitor",
+        "class": "Skald",
         "level": 4
       },
       {
-        "class": "Skald",
+        "class": "Inquisitor",
         "level": 4
       }
     ]
@@ -1662,15 +1430,11 @@
         "level": 1
       },
       {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
         "class": "Ranger",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -1685,23 +1449,7 @@
         "level": 4
       },
       {
-        "class": "Arcanist",
-        "level": 4
-      },
-      {
-        "class": "Bloodrager",
-        "level": 4
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 4
-      },
-      {
         "class": "Investigator",
-        "level": 4
-      },
-      {
-        "class": "Magus",
         "level": 4
       },
       {
@@ -1710,6 +1458,10 @@
       },
       {
         "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
         "level": 4
       }
     ]
@@ -1720,19 +1472,19 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 3
-      },
-      {
         "class": "Sorcerer",
         "level": 3
       },
       {
-        "class": "Summoner",
+        "class": "Wizard",
         "level": 3
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Summoner",
         "level": 3
       }
     ]
@@ -1784,18 +1536,6 @@
         "level": 3
       },
       {
-        "class": "Arcanist",
-        "level": 3
-      },
-      {
-        "class": "Bloodrager",
-        "level": 3
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 3
-      },
-      {
         "class": "Investigator",
         "level": 3
       },
@@ -1805,6 +1545,10 @@
       },
       {
         "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
         "level": 3
       }
     ]
@@ -1819,23 +1563,7 @@
         "level": 4
       },
       {
-        "class": "Arcanist",
-        "level": 4
-      },
-      {
-        "class": "Bloodrager",
-        "level": 4
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 4
-      },
-      {
         "class": "Investigator",
-        "level": 4
-      },
-      {
-        "class": "Magus",
         "level": 4
       },
       {
@@ -1844,6 +1572,10 @@
       },
       {
         "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
         "level": 4
       }
     ]
@@ -1854,15 +1586,7 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 2
-      },
-      {
         "class": "Bard",
-        "level": 2
-      },
-      {
-        "class": "Bloodrager",
         "level": 2
       },
       {
@@ -1875,6 +1599,10 @@
       },
       {
         "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
         "level": 2
       }
     ]
@@ -1889,19 +1617,11 @@
         "level": 2
       },
       {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
         "class": "Ranger",
         "level": 2
       },
       {
-        "class": "Shaman",
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -1916,23 +1636,7 @@
         "level": 3
       },
       {
-        "class": "Arcanist",
-        "level": 3
-      },
-      {
-        "class": "Bloodrager",
-        "level": 3
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 3
-      },
-      {
         "class": "Investigator",
-        "level": 3
-      },
-      {
-        "class": "Magus",
         "level": 3
       },
       {
@@ -1941,6 +1645,10 @@
       },
       {
         "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
         "level": 3
       }
     ]
@@ -1951,35 +1659,7 @@
     "school": "divination",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 2
-      },
-      {
         "class": "Bard",
-        "level": 3
-      },
-      {
-        "class": "Cleric",
-        "level": 3
-      },
-      {
-        "class": "Druid",
-        "level": 2
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Oracle",
         "level": 3
       },
       {
@@ -1987,15 +1667,35 @@
         "level": 3
       },
       {
-        "class": "Sorcerer",
-        "level": 2
+        "class": "Cleric",
+        "level": 3
+      },
+      {
+        "class": "Oracle",
+        "level": 3
       },
       {
         "class": "Warpriest",
         "level": 3
       },
       {
+        "class": "Druid",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
         "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -2010,23 +1710,7 @@
         "level": 2
       },
       {
-        "class": "Arcanist",
-        "level": 2
-      },
-      {
-        "class": "Bloodrager",
-        "level": 2
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 2
-      },
-      {
         "class": "Investigator",
-        "level": 2
-      },
-      {
-        "class": "Magus",
         "level": 2
       },
       {
@@ -2035,6 +1719,10 @@
       },
       {
         "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
         "level": 2
       }
     ]
@@ -2060,15 +1748,15 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 6
-      },
-      {
         "class": "Sorcerer",
         "level": 6
       },
       {
         "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
         "level": 6
       }
     ]
@@ -2079,11 +1767,11 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 3
+        "class": "Bard",
+        "level": 2
       },
       {
-        "class": "Bard",
+        "class": "Skald",
         "level": 2
       },
       {
@@ -2095,19 +1783,19 @@
         "level": 3
       },
       {
-        "class": "Skald",
-        "level": 2
+        "class": "Warpriest",
+        "level": 3
       },
       {
         "class": "Sorcerer",
         "level": 3
       },
       {
-        "class": "Warpriest",
+        "class": "Wizard",
         "level": 3
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
         "level": 3
       }
     ]
@@ -2118,11 +1806,11 @@
     "school": "enchantment",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 8
+        "class": "Bard",
+        "level": 6
       },
       {
-        "class": "Bard",
+        "class": "Skald",
         "level": 6
       },
       {
@@ -2130,19 +1818,7 @@
         "level": 8
       },
       {
-        "class": "Druid",
-        "level": 8
-      },
-      {
         "class": "Oracle",
-        "level": 8
-      },
-      {
-        "class": "Skald",
-        "level": 6
-      },
-      {
-        "class": "Sorcerer",
         "level": 8
       },
       {
@@ -2150,7 +1826,19 @@
         "level": 8
       },
       {
+        "class": "Druid",
+        "level": 8
+      },
+      {
+        "class": "Sorcerer",
+        "level": 8
+      },
+      {
         "class": "Wizard",
+        "level": 8
+      },
+      {
+        "class": "Arcanist",
         "level": 8
       }
     ]
@@ -2194,23 +1882,7 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
         "class": "Druid",
-        "level": 1
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
         "level": 1
       },
       {
@@ -2219,6 +1891,14 @@
       },
       {
         "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -2229,15 +1909,15 @@
     "school": "abjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 7
-      },
-      {
         "class": "Sorcerer",
         "level": 7
       },
       {
         "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
         "level": 7
       }
     ]
@@ -2252,15 +1932,11 @@
         "level": 2
       },
       {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
         "class": "Witch",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -2275,15 +1951,11 @@
         "level": 1
       },
       {
+        "class": "Skald",
+        "level": 1
+      },
+      {
         "class": "Druid",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
         "level": 1
       },
       {
@@ -2291,7 +1963,7 @@
         "level": 1
       },
       {
-        "class": "Skald",
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -2306,15 +1978,11 @@
         "level": 3
       },
       {
+        "class": "Skald",
+        "level": 3
+      },
+      {
         "class": "Druid",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
         "level": 3
       },
       {
@@ -2322,7 +1990,7 @@
         "level": 3
       },
       {
-        "class": "Skald",
+        "class": "Hunter",
         "level": 3
       }
     ]
@@ -2363,19 +2031,15 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 9
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 9
-      },
-      {
         "class": "Sorcerer",
         "level": 9
       },
       {
         "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
         "level": 9
       }
     ]
@@ -2390,23 +2054,7 @@
         "level": 2
       },
       {
-        "class": "Arcanist",
-        "level": 2
-      },
-      {
-        "class": "Bloodrager",
-        "level": 2
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 2
-      },
-      {
         "class": "Investigator",
-        "level": 2
-      },
-      {
-        "class": "Magus",
         "level": 2
       },
       {
@@ -2415,6 +2063,10 @@
       },
       {
         "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
         "level": 2
       }
     ]
@@ -2458,27 +2110,7 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 5
-      },
-      {
         "class": "Druid",
-        "level": 5
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 5
-      },
-      {
-        "class": "Hunter",
-        "level": 5
-      },
-      {
-        "class": "Hunter",
-        "level": 5
-      },
-      {
-        "class": "Magus",
         "level": 5
       },
       {
@@ -2487,6 +2119,14 @@
       },
       {
         "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      },
+      {
+        "class": "Hunter",
         "level": 5
       }
     ]
@@ -2497,19 +2137,15 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 7
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 7
-      },
-      {
         "class": "Sorcerer",
         "level": 7
       },
       {
         "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
         "level": 7
       }
     ]
@@ -2520,27 +2156,15 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 4
-      },
-      {
-        "class": "Bloodrager",
-        "level": 4
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 4
-      },
-      {
-        "class": "Magus",
-        "level": 4
-      },
-      {
         "class": "Sorcerer",
         "level": 4
       },
       {
         "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
         "level": 4
       }
     ]
@@ -2562,35 +2186,15 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
         "class": "Bard",
         "level": 1
       },
       {
-        "class": "Bloodrager",
+        "class": "Skald",
         "level": 1
       },
       {
         "class": "Druid",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Magus",
-        "level": 1
-      },
-      {
-        "class": "Skald",
         "level": 1
       },
       {
@@ -2599,6 +2203,14 @@
       },
       {
         "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -2613,14 +2225,6 @@
         "level": 4
       },
       {
-        "class": "Arcanist",
-        "level": 6
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 6
-      },
-      {
         "class": "Investigator",
         "level": 4
       },
@@ -2631,6 +2235,10 @@
       {
         "class": "Wizard",
         "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
       }
     ]
   },
@@ -2640,19 +2248,15 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 7
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 7
-      },
-      {
         "class": "Sorcerer",
         "level": 7
       },
       {
         "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
         "level": 7
       }
     ]
@@ -2749,10 +2353,6 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 6
-      },
-      {
         "class": "Bard",
         "level": 6
       },
@@ -2767,6 +2367,10 @@
       {
         "class": "Wizard",
         "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
       }
     ]
   },
@@ -2776,28 +2380,8 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 5
-      },
-      {
         "class": "Druid",
         "level": 4
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 5
-      },
-      {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
-        "class": "Magus",
-        "level": 5
       },
       {
         "class": "Sorcerer",
@@ -2806,6 +2390,14 @@
       {
         "class": "Wizard",
         "level": 5
+      },
+      {
+        "class": "Arcanist",
+        "level": 5
+      },
+      {
+        "class": "Hunter",
+        "level": 4
       }
     ]
   },
@@ -2819,11 +2411,11 @@
         "level": 2
       },
       {
-        "class": "Cleric",
+        "class": "Skald",
         "level": 2
       },
       {
-        "class": "Inquisitor",
+        "class": "Cleric",
         "level": 2
       },
       {
@@ -2831,20 +2423,16 @@
         "level": 2
       },
       {
-        "class": "Paladin",
-        "level": 1
-      },
-      {
-        "class": "Shaman",
-        "level": 2
-      },
-      {
-        "class": "Skald",
-        "level": 2
-      },
-      {
         "class": "Warpriest",
         "level": 2
+      },
+      {
+        "class": "Inquisitor",
+        "level": 2
+      },
+      {
+        "class": "Paladin",
+        "level": 1
       }
     ]
   },
@@ -2858,11 +2446,11 @@
         "level": 4
       },
       {
-        "class": "Cleric",
-        "level": 5
+        "class": "Skald",
+        "level": 4
       },
       {
-        "class": "Inquisitor",
+        "class": "Cleric",
         "level": 5
       },
       {
@@ -2870,20 +2458,16 @@
         "level": 5
       },
       {
-        "class": "Paladin",
-        "level": 3
-      },
-      {
-        "class": "Shaman",
-        "level": 5
-      },
-      {
-        "class": "Skald",
-        "level": 4
-      },
-      {
         "class": "Warpriest",
         "level": 5
+      },
+      {
+        "class": "Inquisitor",
+        "level": 5
+      },
+      {
+        "class": "Paladin",
+        "level": 3
       }
     ]
   },
@@ -2893,47 +2477,23 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 2
-      },
-      {
         "class": "Druid",
         "level": 2
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
       },
       {
         "class": "Ranger",
         "level": 1
       },
       {
-        "class": "Shaman",
+        "class": "Sorcerer",
         "level": 2
       },
       {
-        "class": "Sorcerer",
+        "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
         "level": 2
       },
       {
@@ -2945,8 +2505,8 @@
         "level": 2
       },
       {
-        "class": "Wizard",
-        "level": 2
+        "class": "Hunter",
+        "level": 1
       }
     ]
   },
@@ -2964,12 +2524,12 @@
         "level": 2
       },
       {
-        "class": "Paladin",
-        "level": 1
-      },
-      {
         "class": "Warpriest",
         "level": 2
+      },
+      {
+        "class": "Paladin",
+        "level": 1
       }
     ]
   },
@@ -2978,18 +2538,6 @@
     "type": "spell",
     "school": "transmutation",
     "levels": [
-      {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
       {
         "class": "Ranger",
         "level": 1
@@ -3000,6 +2548,14 @@
       },
       {
         "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -3014,20 +2570,12 @@
         "level": 4
       },
       {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
         "class": "Ranger",
         "level": 4
       },
       {
-        "class": "Shaman",
-        "level": 5
+        "class": "Hunter",
+        "level": 4
       }
     ]
   },
@@ -3041,15 +2589,11 @@
         "level": 3
       },
       {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
         "class": "Oracle",
+        "level": 3
+      },
+      {
+        "class": "Warpriest",
         "level": 3
       },
       {
@@ -3057,16 +2601,12 @@
         "level": 2
       },
       {
-        "class": "Shaman",
-        "level": 2
-      },
-      {
-        "class": "Warpriest",
-        "level": 3
-      },
-      {
         "class": "Witch",
         "level": 3
+      },
+      {
+        "class": "Hunter",
+        "level": 2
       }
     ]
   },
@@ -3082,68 +2622,6 @@
       {
         "class": "Skald",
         "level": 4
-      }
-    ]
-  },
-  {
-    "name": "Heroic Fortune",
-    "type": "spell",
-    "school": "evocation",
-    "levels": [
-      {
-        "class": "Alchemist",
-        "level": 2
-      },
-      {
-        "class": "Bard",
-        "level": 2
-      },
-      {
-        "class": "Cleric",
-        "level": 2
-      },
-      {
-        "class": "Investigator",
-        "level": 2
-      },
-      {
-        "class": "Oracle",
-        "level": 2
-      },
-      {
-        "class": "Paladin",
-        "level": 3
-      },
-      {
-        "class": "Skald",
-        "level": 2
-      },
-      {
-        "class": "Warpriest",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "name": "Heroic Fortune, Mass",
-    "type": "spell",
-    "school": "evocation",
-    "levels": [
-      {
-        "class": "Cleric",
-        "level": 5
-      },
-      {
-        "class": "Oracle",
-        "level": 5
-      },
-      {
-        "class": "Skald",
-        "level": 4
-      },
-      {
-        "class": "Warpriest",
-        "level": 5
       }
     ]
   },
@@ -3168,12 +2646,12 @@
         "level": 2
       },
       {
-        "class": "Inquisitor",
-        "level": 3
-      },
-      {
         "class": "Skald",
         "level": 2
+      },
+      {
+        "class": "Inquisitor",
+        "level": 3
       },
       {
         "class": "Witch",
@@ -3191,15 +2669,11 @@
         "level": 3
       },
       {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
         "class": "Ranger",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -3225,16 +2699,16 @@
         "level": 2
       },
       {
+        "class": "Skald",
+        "level": 2
+      },
+      {
         "class": "Inquisitor",
         "level": 2
       },
       {
         "class": "Paladin",
         "level": 1
-      },
-      {
-        "class": "Skald",
-        "level": 2
       }
     ]
   },
@@ -3244,23 +2718,19 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 5
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 5
-      },
-      {
         "class": "Sorcerer",
         "level": 5
       },
       {
-        "class": "Summoner",
+        "class": "Wizard",
         "level": 5
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
+        "level": 5
+      },
+      {
+        "class": "Summoner",
         "level": 5
       }
     ]
@@ -3271,15 +2741,15 @@
     "school": "divination",
     "levels": [
       {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
         "class": "Inquisitor",
         "level": 3
       },
       {
         "class": "Ranger",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -3290,11 +2760,11 @@
     "school": "necromancy",
     "levels": [
       {
-        "class": "Hunter",
+        "class": "Ranger",
         "level": 1
       },
       {
-        "class": "Ranger",
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -3305,35 +2775,7 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
-        "class": "Bloodrager",
-        "level": 1
-      },
-      {
         "class": "Druid",
-        "level": 1
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Magus",
-        "level": 1
-      },
-      {
-        "class": "Shaman",
         "level": 1
       },
       {
@@ -3342,6 +2784,14 @@
       },
       {
         "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -3352,31 +2802,7 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 3
-      },
-      {
-        "class": "Bloodrager",
-        "level": 3
-      },
-      {
         "class": "Druid",
-        "level": 3
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Magus",
         "level": 3
       },
       {
@@ -3385,6 +2811,14 @@
       },
       {
         "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
         "level": 3
       }
     ]
@@ -3429,11 +2863,11 @@
         "level": 2
       },
       {
-        "class": "Paladin",
+        "class": "Warpriest",
         "level": 2
       },
       {
-        "class": "Warpriest",
+        "class": "Paladin",
         "level": 2
       }
     ]
@@ -3444,11 +2878,11 @@
     "school": "enchantment",
     "levels": [
       {
-        "class": "Hunter",
+        "class": "Ranger",
         "level": 3
       },
       {
-        "class": "Ranger",
+        "class": "Hunter",
         "level": 3
       }
     ]
@@ -3508,23 +2942,19 @@
         "level": 1
       },
       {
-        "class": "Druid",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
         "class": "Investigator",
         "level": 1
       },
       {
+        "class": "Druid",
+        "level": 1
+      },
+      {
         "class": "Ranger",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -3557,11 +2987,11 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Hunter",
+        "class": "Ranger",
         "level": 1
       },
       {
-        "class": "Ranger",
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -3572,32 +3002,20 @@
     "school": "abjuration",
     "levels": [
       {
-        "class": "Arcanist",
+        "class": "Cleric",
         "level": 5
       },
       {
-        "class": "Cleric",
+        "class": "Oracle",
+        "level": 5
+      },
+      {
+        "class": "Warpriest",
         "level": 5
       },
       {
         "class": "Druid",
         "level": 4
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Oracle",
-        "level": 5
       },
       {
         "class": "Ranger",
@@ -3608,12 +3026,16 @@
         "level": 5
       },
       {
-        "class": "Warpriest",
+        "class": "Wizard",
         "level": 5
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
         "level": 5
+      },
+      {
+        "class": "Hunter",
+        "level": 3
       }
     ]
   },
@@ -3653,39 +3075,12 @@
         "level": 2
       },
       {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
         "class": "Ranger",
         "level": 2
-      }
-    ]
-  },
-  {
-    "name": "Malediction",
-    "type": "spell",
-    "school": "necromancy",
-    "levels": [
-      {
-        "class": "Arcanist",
-        "level": 3
       },
       {
-        "class": "Sorcerer",
-        "level": 3
-      },
-      {
-        "class": "Witch",
-        "level": 3
-      },
-      {
-        "class": "Wizard",
-        "level": 3
+        "class": "Hunter",
+        "level": 2
       }
     ]
   },
@@ -3717,10 +3112,6 @@
     "school": "enchantment",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
         "class": "Bard",
         "level": 1
       },
@@ -3735,6 +3126,10 @@
       {
         "class": "Wizard",
         "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
       }
     ]
   },
@@ -3744,27 +3139,7 @@
     "school": "enchantment",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 4
-      },
-      {
-        "class": "Bloodrager",
-        "level": 4
-      },
-      {
         "class": "Druid",
-        "level": 4
-      },
-      {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
-        "class": "Hunter",
         "level": 4
       },
       {
@@ -3772,11 +3147,19 @@
         "level": 4
       },
       {
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
         "class": "Witch",
         "level": 4
       },
       {
-        "class": "Wizard",
+        "class": "Hunter",
         "level": 4
       }
     ]
@@ -3825,15 +3208,11 @@
         "level": 3
       },
       {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
         "class": "Witch",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
         "level": 3
       }
     ]
@@ -3848,23 +3227,19 @@
         "level": 1
       },
       {
-        "class": "Druid",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
         "class": "Investigator",
         "level": 1
       },
       {
+        "class": "Druid",
+        "level": 1
+      },
+      {
         "class": "Ranger",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -3897,23 +3272,19 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 3
-      },
-      {
-        "class": "Bloodrager",
-        "level": 3
-      },
-      {
         "class": "Sorcerer",
         "level": 3
       },
       {
-        "class": "Witch",
+        "class": "Wizard",
         "level": 3
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
         "level": 3
       }
     ]
@@ -3924,19 +3295,19 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 5
-      },
-      {
         "class": "Sorcerer",
         "level": 5
       },
       {
-        "class": "Witch",
+        "class": "Wizard",
         "level": 5
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
+        "level": 5
+      },
+      {
+        "class": "Witch",
         "level": 5
       }
     ]
@@ -3962,19 +3333,11 @@
         "level": 2
       },
       {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
+        "class": "Investigator",
         "level": 2
       },
       {
         "class": "Inquisitor",
-        "level": 2
-      },
-      {
-        "class": "Investigator",
         "level": 2
       },
       {
@@ -3983,6 +3346,10 @@
       },
       {
         "class": "Witch",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -3993,15 +3360,15 @@
     "school": "illusion",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 7
-      },
-      {
         "class": "Sorcerer",
         "level": 7
       },
       {
         "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
         "level": 7
       }
     ]
@@ -4011,10 +3378,6 @@
     "type": "spell",
     "school": "illusion",
     "levels": [
-      {
-        "class": "Arcanist",
-        "level": 5
-      },
       {
         "class": "Bard",
         "level": 5
@@ -4029,6 +3392,10 @@
       },
       {
         "class": "Wizard",
+        "level": 5
+      },
+      {
+        "class": "Arcanist",
         "level": 5
       }
     ]
@@ -4077,7 +3444,7 @@
         "level": 5
       },
       {
-        "class": "Arcanist",
+        "class": "Investigator",
         "level": 5
       },
       {
@@ -4085,15 +3452,11 @@
         "level": 4
       },
       {
-        "class": "Elementalist Wizard",
-        "level": 5
-      },
-      {
-        "class": "Investigator",
-        "level": 5
-      },
-      {
         "class": "Oracle",
+        "level": 4
+      },
+      {
+        "class": "Warpriest",
         "level": 4
       },
       {
@@ -4101,15 +3464,15 @@
         "level": 5
       },
       {
-        "class": "Summoner",
+        "class": "Wizard",
         "level": 5
       },
       {
-        "class": "Warpriest",
-        "level": 4
+        "class": "Arcanist",
+        "level": 5
       },
       {
-        "class": "Wizard",
+        "class": "Summoner",
         "level": 5
       }
     ]
@@ -4117,30 +3480,13 @@
   {
     "name": "Planar Adaptation, Mass",
     "type": "spell",
-    "school": "transmutation",
     "levels": [
-      {
-        "class": "Arcanist",
-        "level": 7
-      },
       {
         "class": "Cleric",
         "level": 6
       },
       {
-        "class": "Elementalist Wizard",
-        "level": 7
-      },
-      {
         "class": "Oracle",
-        "level": 6
-      },
-      {
-        "class": "Sorcerer",
-        "level": 7
-      },
-      {
-        "class": "Summoner",
         "level": 6
       },
       {
@@ -4148,8 +3494,20 @@
         "level": 6
       },
       {
+        "class": "Sorcerer",
+        "level": 7
+      },
+      {
         "class": "Wizard",
         "level": 7
+      },
+      {
+        "class": "Arcanist",
+        "level": 7
+      },
+      {
+        "class": "Summoner",
+        "level": 6
       }
     ]
   },
@@ -4163,15 +3521,11 @@
         "level": 2
       },
       {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
         "class": "Witch",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -4182,11 +3536,11 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Hunter",
+        "class": "Ranger",
         "level": 2
       },
       {
-        "class": "Ranger",
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -4245,15 +3599,7 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 7
-      },
-      {
         "class": "Druid",
-        "level": 7
-      },
-      {
-        "class": "Elementalist Wizard",
         "level": 7
       },
       {
@@ -4262,6 +3608,10 @@
       },
       {
         "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
         "level": 7
       }
     ]
@@ -4316,11 +3666,11 @@
     "school": "divination",
     "levels": [
       {
-        "class": "Hunter",
+        "class": "Ranger",
         "level": 1
       },
       {
-        "class": "Ranger",
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -4354,31 +3704,23 @@
         "level": 4
       },
       {
-        "class": "Druid",
-        "level": 5
-      },
-      {
-        "class": "Hunter",
-        "level": 5
-      },
-      {
-        "class": "Hunter",
-        "level": 5
-      },
-      {
         "class": "Oracle",
         "level": 4
-      },
-      {
-        "class": "Shaman",
-        "level": 5
       },
       {
         "class": "Warpriest",
         "level": 4
       },
       {
+        "class": "Druid",
+        "level": 5
+      },
+      {
         "class": "Witch",
+        "level": 5
+      },
+      {
+        "class": "Hunter",
         "level": 5
       }
     ]
@@ -4460,31 +3802,7 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 4
-      },
-      {
-        "class": "Bloodrager",
-        "level": 4
-      },
-      {
         "class": "Druid",
-        "level": 4
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 4
-      },
-      {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
-        "class": "Magus",
         "level": 4
       },
       {
@@ -4493,6 +3811,14 @@
       },
       {
         "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
         "level": 4
       }
     ]
@@ -4507,20 +3833,20 @@
         "level": 3
       },
       {
-        "class": "Inquisitor",
-        "level": 2
-      },
-      {
         "class": "Oracle",
         "level": 3
       },
       {
-        "class": "Paladin",
+        "class": "Warpriest",
+        "level": 3
+      },
+      {
+        "class": "Inquisitor",
         "level": 2
       },
       {
-        "class": "Warpriest",
-        "level": 3
+        "class": "Paladin",
+        "level": 2
       }
     ]
   },
@@ -4608,15 +3934,15 @@
     "school": "necromancy",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
         "class": "Sorcerer",
         "level": 1
       },
       {
         "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
         "level": 1
       }
     ]
@@ -4627,15 +3953,7 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 8
-      },
-      {
         "class": "Druid",
-        "level": 8
-      },
-      {
-        "class": "Elementalist Wizard",
         "level": 8
       },
       {
@@ -4644,6 +3962,10 @@
       },
       {
         "class": "Wizard",
+        "level": 8
+      },
+      {
+        "class": "Arcanist",
         "level": 8
       }
     ]
@@ -4658,7 +3980,7 @@
         "level": 3
       },
       {
-        "class": "Arcanist",
+        "class": "Investigator",
         "level": 3
       },
       {
@@ -4666,19 +3988,23 @@
         "level": 3
       },
       {
-        "class": "Inquisitor",
-        "level": 3
-      },
-      {
-        "class": "Investigator",
-        "level": 3
-      },
-      {
         "class": "Skald",
         "level": 3
       },
       {
+        "class": "Inquisitor",
+        "level": 3
+      },
+      {
         "class": "Sorcerer",
+        "level": 3
+      },
+      {
+        "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
         "level": 3
       },
       {
@@ -4688,33 +4014,6 @@
       {
         "class": "Witch",
         "level": 3
-      },
-      {
-        "class": "Wizard",
-        "level": 3
-      }
-    ]
-  },
-  {
-    "name": "Severed Fate",
-    "type": "spell",
-    "school": "enchantment",
-    "levels": [
-      {
-        "class": "Cleric",
-        "level": 3
-      },
-      {
-        "class": "Oracle",
-        "level": 3
-      },
-      {
-        "class": "Warpriest",
-        "level": 3
-      },
-      {
-        "class": "Witch",
-        "level": 2
       }
     ]
   },
@@ -4724,15 +4023,15 @@
     "school": "necromancy",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 4
-      },
-      {
         "class": "Sorcerer",
         "level": 4
       },
       {
         "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
         "level": 4
       }
     ]
@@ -4743,11 +4042,11 @@
     "school": "divination",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 2
+        "class": "Bard",
+        "level": 1
       },
       {
-        "class": "Bard",
+        "class": "Skald",
         "level": 1
       },
       {
@@ -4755,27 +4054,7 @@
         "level": 2
       },
       {
-        "class": "Druid",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
         "class": "Oracle",
-        "level": 2
-      },
-      {
-        "class": "Skald",
-        "level": 1
-      },
-      {
-        "class": "Sorcerer",
         "level": 2
       },
       {
@@ -4783,7 +4062,23 @@
         "level": 2
       },
       {
+        "class": "Druid",
+        "level": 2
+      },
+      {
+        "class": "Sorcerer",
+        "level": 2
+      },
+      {
         "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -4794,20 +4089,20 @@
     "school": "divination",
     "levels": [
       {
-        "class": "Arcanist",
+        "class": "Sorcerer",
         "level": 4
       },
       {
-        "class": "Sorcerer",
+        "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
         "level": 4
       },
       {
         "class": "Witch",
         "level": 3
-      },
-      {
-        "class": "Wizard",
-        "level": 4
       }
     ]
   },
@@ -4828,23 +4123,7 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 3
-      },
-      {
         "class": "Druid",
-        "level": 3
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
         "level": 3
       },
       {
@@ -4853,6 +4132,14 @@
       },
       {
         "class": "Wizard",
+        "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
         "level": 3
       }
     ]
@@ -4867,11 +4154,11 @@
         "level": 0
       },
       {
-        "class": "Inquisitor",
+        "class": "Skald",
         "level": 0
       },
       {
-        "class": "Skald",
+        "class": "Inquisitor",
         "level": 0
       }
     ]
@@ -4882,27 +4169,7 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 6
-      },
-      {
         "class": "Druid",
-        "level": 6
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 6
-      },
-      {
-        "class": "Hunter",
-        "level": 6
-      },
-      {
-        "class": "Hunter",
-        "level": 6
-      },
-      {
-        "class": "Magus",
         "level": 6
       },
       {
@@ -4911,6 +4178,14 @@
       },
       {
         "class": "Wizard",
+        "level": 6
+      },
+      {
+        "class": "Arcanist",
+        "level": 6
+      },
+      {
+        "class": "Hunter",
         "level": 6
       }
     ]
@@ -4936,31 +4211,7 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 2
-      },
-      {
-        "class": "Bloodrager",
-        "level": 2
-      },
-      {
         "class": "Druid",
-        "level": 2
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
         "level": 2
       },
       {
@@ -4973,6 +4224,14 @@
       },
       {
         "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -4987,23 +4246,19 @@
         "level": 5
       },
       {
+        "class": "Oracle",
+        "level": 5
+      },
+      {
+        "class": "Warpriest",
+        "level": 5
+      },
+      {
         "class": "Druid",
         "level": 5
       },
       {
         "class": "Hunter",
-        "level": 5
-      },
-      {
-        "class": "Oracle",
-        "level": 5
-      },
-      {
-        "class": "Shaman",
-        "level": 6
-      },
-      {
-        "class": "Warpriest",
         "level": 5
       }
     ]
@@ -5029,43 +4284,7 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 0
-      },
-      {
         "class": "Bard",
-        "level": 0
-      },
-      {
-        "class": "Cleric",
-        "level": 0
-      },
-      {
-        "class": "Druid",
-        "level": 0
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 0
-      },
-      {
-        "class": "Hunter",
-        "level": 0
-      },
-      {
-        "class": "Hunter",
-        "level": 0
-      },
-      {
-        "class": "Hunter",
-        "level": 0
-      },
-      {
-        "class": "Magus",
-        "level": 0
-      },
-      {
-        "class": "Oracle",
         "level": 0
       },
       {
@@ -5073,7 +4292,11 @@
         "level": 0
       },
       {
-        "class": "Sorcerer",
+        "class": "Cleric",
+        "level": 0
+      },
+      {
+        "class": "Oracle",
         "level": 0
       },
       {
@@ -5081,11 +4304,27 @@
         "level": 0
       },
       {
-        "class": "Witch",
+        "class": "Druid",
+        "level": 0
+      },
+      {
+        "class": "Sorcerer",
         "level": 0
       },
       {
         "class": "Wizard",
+        "level": 0
+      },
+      {
+        "class": "Arcanist",
+        "level": 0
+      },
+      {
+        "class": "Witch",
+        "level": 0
+      },
+      {
+        "class": "Hunter",
         "level": 0
       }
     ]
@@ -5096,23 +4335,19 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 3
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 3
-      },
-      {
         "class": "Sorcerer",
         "level": 3
       },
       {
-        "class": "Summoner",
+        "class": "Wizard",
         "level": 3
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Summoner",
         "level": 3
       }
     ]
@@ -5164,35 +4399,7 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 2
-      },
-      {
-        "class": "Bloodrager",
-        "level": 2
-      },
-      {
         "class": "Druid",
-        "level": 2
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Magus",
         "level": 2
       },
       {
@@ -5205,6 +4412,14 @@
       },
       {
         "class": "Wizard",
+        "level": 2
+      },
+      {
+        "class": "Arcanist",
+        "level": 2
+      },
+      {
+        "class": "Hunter",
         "level": 2
       }
     ]
@@ -5219,35 +4434,11 @@
         "level": 1
       },
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
-        "class": "Bloodrager",
-        "level": 1
-      },
-      {
-        "class": "Druid",
-        "level": 1
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
         "class": "Investigator",
         "level": 1
       },
       {
-        "class": "Magus",
+        "class": "Druid",
         "level": 1
       },
       {
@@ -5256,6 +4447,14 @@
       },
       {
         "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -5266,19 +4465,7 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 8
-      },
-      {
         "class": "Cleric",
-        "level": 8
-      },
-      {
-        "class": "Druid",
-        "level": 8
-      },
-      {
-        "class": "Elementalist Wizard",
         "level": 8
       },
       {
@@ -5286,7 +4473,11 @@
         "level": 8
       },
       {
-        "class": "Shaman",
+        "class": "Warpriest",
+        "level": 8
+      },
+      {
+        "class": "Druid",
         "level": 8
       },
       {
@@ -5294,15 +4485,15 @@
         "level": 8
       },
       {
-        "class": "Warpriest",
+        "class": "Wizard",
+        "level": 8
+      },
+      {
+        "class": "Arcanist",
         "level": 8
       },
       {
         "class": "Witch",
-        "level": 8
-      },
-      {
-        "class": "Wizard",
         "level": 8
       }
     ]
@@ -5317,15 +4508,11 @@
         "level": 4
       },
       {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
         "class": "Ranger",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
         "level": 3
       }
     ]
@@ -5336,15 +4523,15 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
         "class": "Sorcerer",
         "level": 1
       },
       {
         "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
         "level": 1
       }
     ]
@@ -5370,23 +4557,19 @@
     "school": "necromancy",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 5
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 5
-      },
-      {
         "class": "Sorcerer",
         "level": 5
       },
       {
-        "class": "Witch",
+        "class": "Wizard",
         "level": 5
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
+        "level": 5
+      },
+      {
+        "class": "Witch",
         "level": 5
       }
     ]
@@ -5397,23 +4580,19 @@
     "school": "necromancy",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 9
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 9
-      },
-      {
         "class": "Sorcerer",
         "level": 9
       },
       {
-        "class": "Witch",
+        "class": "Wizard",
         "level": 9
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
+        "level": 9
+      },
+      {
+        "class": "Witch",
         "level": 9
       }
     ]
@@ -5439,15 +4618,11 @@
         "level": 6
       },
       {
-        "class": "Hunter",
-        "level": 6
-      },
-      {
-        "class": "Hunter",
-        "level": 6
-      },
-      {
         "class": "Witch",
+        "level": 6
+      },
+      {
+        "class": "Hunter",
         "level": 6
       }
     ]
@@ -5462,19 +4637,15 @@
         "level": 3
       },
       {
+        "class": "Investigator",
+        "level": 3
+      },
+      {
         "class": "Druid",
         "level": 4
       },
       {
         "class": "Hunter",
-        "level": 4
-      },
-      {
-        "class": "Investigator",
-        "level": 3
-      },
-      {
-        "class": "Shaman",
         "level": 4
       }
     ]
@@ -5489,16 +4660,12 @@
         "level": 5
       },
       {
-        "class": "Hunter",
-        "level": 5
-      },
-      {
-        "class": "Hunter",
-        "level": 5
-      },
-      {
         "class": "Witch",
         "level": 4
+      },
+      {
+        "class": "Hunter",
+        "level": 5
       }
     ]
   },
@@ -5538,15 +4705,15 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Hunter",
-        "level": 3
-      },
-      {
         "class": "Inquisitor",
         "level": 4
       },
       {
         "class": "Ranger",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
         "level": 3
       }
     ]
@@ -5557,15 +4724,15 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
         "class": "Inquisitor",
         "level": 1
       },
       {
         "class": "Ranger",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -5576,15 +4743,7 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
         "class": "Bard",
-        "level": 1
-      },
-      {
-        "class": "Bloodrager",
         "level": 1
       },
       {
@@ -5597,6 +4756,10 @@
       },
       {
         "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
         "level": 1
       }
     ]
@@ -5611,31 +4774,11 @@
         "level": 1
       },
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
-        "class": "Bloodrager",
+        "class": "Investigator",
         "level": 1
       },
       {
         "class": "Druid",
-        "level": 1
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Hunter",
-        "level": 1
-      },
-      {
-        "class": "Investigator",
         "level": 1
       },
       {
@@ -5644,6 +4787,14 @@
       },
       {
         "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
+        "level": 1
+      },
+      {
+        "class": "Hunter",
         "level": 1
       }
     ]
@@ -5680,11 +4831,11 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 5
+        "class": "Bard",
+        "level": 4
       },
       {
-        "class": "Bard",
+        "class": "Skald",
         "level": 4
       },
       {
@@ -5696,19 +4847,19 @@
         "level": 5
       },
       {
-        "class": "Skald",
-        "level": 4
+        "class": "Warpriest",
+        "level": 5
       },
       {
         "class": "Sorcerer",
         "level": 5
       },
       {
-        "class": "Warpriest",
+        "class": "Wizard",
         "level": 5
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
         "level": 5
       }
     ]
@@ -5719,19 +4870,7 @@
     "school": "abjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 4
-      },
-      {
         "class": "Druid",
-        "level": 4
-      },
-      {
-        "class": "Hunter",
-        "level": 4
-      },
-      {
-        "class": "Hunter",
         "level": 4
       },
       {
@@ -5740,6 +4879,14 @@
       },
       {
         "class": "Wizard",
+        "level": 4
+      },
+      {
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Hunter",
         "level": 4
       }
     ]
@@ -5750,19 +4897,7 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 9
-      },
-      {
         "class": "Druid",
-        "level": 9
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 9
-      },
-      {
-        "class": "Shaman",
         "level": 9
       },
       {
@@ -5771,6 +4906,10 @@
       },
       {
         "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
         "level": 9
       }
     ]
@@ -5781,23 +4920,19 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 3
-      },
-      {
-        "class": "Bloodrager",
-        "level": 3
-      },
-      {
         "class": "Sorcerer",
         "level": 3
       },
       {
-        "class": "Witch",
+        "class": "Wizard",
         "level": 3
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Witch",
         "level": 3
       }
     ]
@@ -5844,55 +4979,12 @@
     ]
   },
   {
-    "name": "Unravel Destiny",
-    "type": "spell",
-    "school": "divination",
-    "levels": [
-      {
-        "class": "Arcanist",
-        "level": 3
-      },
-      {
-        "class": "Cleric",
-        "level": 3
-      },
-      {
-        "class": "Oracle",
-        "level": 3
-      },
-      {
-        "class": "Sorcerer",
-        "level": 3
-      },
-      {
-        "class": "Warpriest",
-        "level": 3
-      },
-      {
-        "class": "Witch",
-        "level": 3
-      },
-      {
-        "class": "Wizard",
-        "level": 3
-      }
-    ]
-  },
-  {
     "name": "Unwilling Shield",
     "type": "spell",
     "school": "necromancy",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 6
-      },
-      {
         "class": "Bard",
-        "level": 5
-      },
-      {
-        "class": "Inquisitor",
         "level": 5
       },
       {
@@ -5900,15 +4992,23 @@
         "level": 5
       },
       {
+        "class": "Inquisitor",
+        "level": 5
+      },
+      {
         "class": "Sorcerer",
         "level": 6
       },
       {
-        "class": "Witch",
+        "class": "Wizard",
         "level": 6
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
+        "level": 6
+      },
+      {
+        "class": "Witch",
         "level": 6
       }
     ]
@@ -5934,15 +5034,7 @@
     "school": "illusion",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 1
-      },
-      {
         "class": "Bard",
-        "level": 1
-      },
-      {
-        "class": "Magus",
         "level": 1
       },
       {
@@ -5955,6 +5047,10 @@
       },
       {
         "class": "Wizard",
+        "level": 1
+      },
+      {
+        "class": "Arcanist",
         "level": 1
       }
     ]
@@ -5976,11 +5072,11 @@
     "school": "necromancy",
     "levels": [
       {
-        "class": "Hunter",
+        "class": "Ranger",
         "level": 3
       },
       {
-        "class": "Ranger",
+        "class": "Hunter",
         "level": 3
       }
     ]
@@ -5991,35 +5087,15 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 3
-      },
-      {
         "class": "Bard",
         "level": 2
       },
       {
-        "class": "Bloodrager",
-        "level": 3
-      },
-      {
-        "class": "Hunter",
+        "class": "Skald",
         "level": 2
-      },
-      {
-        "class": "Hunter",
-        "level": 2
-      },
-      {
-        "class": "Magus",
-        "level": 3
       },
       {
         "class": "Ranger",
-        "level": 2
-      },
-      {
-        "class": "Skald",
         "level": 2
       },
       {
@@ -6029,6 +5105,14 @@
       {
         "class": "Wizard",
         "level": 3
+      },
+      {
+        "class": "Arcanist",
+        "level": 3
+      },
+      {
+        "class": "Hunter",
+        "level": 2
       }
     ]
   },
@@ -6057,19 +5141,7 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 7
-      },
-      {
         "class": "Druid",
-        "level": 7
-      },
-      {
-        "class": "Elementalist Wizard",
-        "level": 7
-      },
-      {
-        "class": "Shaman",
         "level": 7
       },
       {
@@ -6078,6 +5150,10 @@
       },
       {
         "class": "Wizard",
+        "level": 7
+      },
+      {
+        "class": "Arcanist",
         "level": 7
       }
     ]
@@ -6099,15 +5175,7 @@
     "school": "conjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 8
-      },
-      {
         "class": "Druid",
-        "level": 8
-      },
-      {
-        "class": "Elementalist Wizard",
         "level": 8
       },
       {
@@ -6116,6 +5184,10 @@
       },
       {
         "class": "Wizard",
+        "level": 8
+      },
+      {
+        "class": "Arcanist",
         "level": 8
       }
     ]
@@ -6126,15 +5198,15 @@
     "school": "abjuration",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 9
-      },
-      {
         "class": "Sorcerer",
         "level": 9
       },
       {
         "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
         "level": 9
       }
     ]
@@ -6145,15 +5217,7 @@
     "school": "illusion",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 4
-      },
-      {
         "class": "Bard",
-        "level": 4
-      },
-      {
-        "class": "Shaman",
         "level": 4
       },
       {
@@ -6165,11 +5229,15 @@
         "level": 4
       },
       {
-        "class": "Witch",
+        "class": "Wizard",
         "level": 4
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
+        "level": 4
+      },
+      {
+        "class": "Witch",
         "level": 4
       }
     ]
@@ -6195,19 +5263,19 @@
         "level": 2
       },
       {
-        "class": "Inquisitor",
-        "level": 2
-      },
-      {
         "class": "Oracle",
         "level": 2
       },
       {
-        "class": "Paladin",
+        "class": "Warpriest",
         "level": 2
       },
       {
-        "class": "Warpriest",
+        "class": "Inquisitor",
+        "level": 2
+      },
+      {
+        "class": "Paladin",
         "level": 2
       }
     ]
@@ -6218,19 +5286,7 @@
     "school": "evocation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 9
-      },
-      {
         "class": "Cleric",
-        "level": 9
-      },
-      {
-        "class": "Druid",
-        "level": 9
-      },
-      {
-        "class": "Elementalist Wizard",
         "level": 9
       },
       {
@@ -6238,7 +5294,11 @@
         "level": 9
       },
       {
-        "class": "Shaman",
+        "class": "Warpriest",
+        "level": 9
+      },
+      {
+        "class": "Druid",
         "level": 9
       },
       {
@@ -6246,11 +5306,11 @@
         "level": 9
       },
       {
-        "class": "Warpriest",
+        "class": "Wizard",
         "level": 9
       },
       {
-        "class": "Wizard",
+        "class": "Arcanist",
         "level": 9
       }
     ]
@@ -6261,15 +5321,7 @@
     "school": "transmutation",
     "levels": [
       {
-        "class": "Arcanist",
-        "level": 9
-      },
-      {
         "class": "Druid",
-        "level": 9
-      },
-      {
-        "class": "Elementalist Wizard",
         "level": 9
       },
       {
@@ -6278,6 +5330,10 @@
       },
       {
         "class": "Wizard",
+        "level": 9
+      },
+      {
+        "class": "Arcanist",
         "level": 9
       }
     ]
@@ -6307,11 +5363,11 @@
         "level": 3
       },
       {
-        "class": "Paladin",
+        "class": "Warpriest",
         "level": 3
       },
       {
-        "class": "Warpriest",
+        "class": "Paladin",
         "level": 3
       }
     ]
