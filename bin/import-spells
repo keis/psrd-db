@@ -1,6 +1,7 @@
 #!/usr/bin/env coffee
 
 fs = require 'fs'
+glob = require 'glob'
 mapLimit = require 'map-limit'
 pick = require 'object.pick'
 
@@ -13,14 +14,13 @@ detectName = (path) ->
 importSpells = (target, src, callback) ->
 
   importFile = (file, callback) ->
-    fs.readFile "#{src}/#{file}", (err, data) ->
+    fs.readFile file, (err, data) ->
       return callback err if err
 
       data = JSON.parse data
-
       callback null, pick data, ['name', 'type', 'school', 'levels']
 
-  fs.readdir src, (err, files) ->
+  glob "#{src}/*.json", (err, files) ->
     return callback err if err
 
     mapLimit files, 4, importFile, (err, data) ->
