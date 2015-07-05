@@ -3,6 +3,9 @@
     "name": "Acid Arrow",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -22,6 +25,9 @@
     "name": "Acid Fog",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -41,6 +47,9 @@
     "name": "Acid Splash",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -60,6 +69,9 @@
     "name": "Aid",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -160,6 +172,9 @@
     "name": "Alter Self",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -245,6 +260,9 @@
     "name": "Animal Messenger",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -272,6 +290,9 @@
     "name": "Animal Shapes",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -283,6 +304,9 @@
     "name": "Animal Trance",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -460,6 +484,9 @@
     "name": "Antipathy",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -498,6 +525,9 @@
     "name": "Arcane Eye",
     "type": "spell",
     "school": "divination",
+    "subschool": [
+      "scrying"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -685,6 +715,9 @@
     "name": "Baleful Polymorph",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -712,6 +745,9 @@
     "name": "Bane",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -863,6 +899,9 @@
     "name": "Beast Shape I",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -882,6 +921,9 @@
     "name": "Beast Shape II",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -901,6 +943,9 @@
     "name": "Beast Shape III",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -920,6 +965,9 @@
     "name": "Beast Shape IV",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -970,6 +1018,9 @@
     "name": "Binding",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -989,6 +1040,9 @@
     "name": "Black Tentacles",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -1077,6 +1131,9 @@
     "name": "Bless",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -1227,6 +1284,9 @@
     "name": "Blur",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -1297,6 +1357,9 @@
     "name": "Breath Of Life",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -1447,6 +1510,9 @@
     "name": "Calm Animals",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -1466,6 +1532,9 @@
     "name": "Calm Emotions",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -1655,6 +1724,9 @@
     "name": "Charm Animal",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "charm"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -1674,6 +1746,9 @@
     "name": "Charm Monster",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "charm"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -1701,6 +1776,9 @@
     "name": "Charm Monster, Mass",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "charm"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -1728,6 +1806,9 @@
     "name": "Charm Person",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "charm"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -1808,6 +1889,9 @@
     "name": "Clairaudience/Clairvoyance",
     "type": "spell",
     "school": "divination",
+    "subschool": [
+      "scrying"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -1892,6 +1976,9 @@
     "name": "Cloudkill",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -1911,6 +1998,9 @@
     "name": "Color Spray",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "pattern"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -1930,6 +2020,9 @@
     "name": "Command",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -1949,6 +2042,9 @@
     "name": "Command, Greater",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -2102,6 +2198,9 @@
     "name": "Confusion",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2129,6 +2228,9 @@
     "name": "Confusion, Lesser",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2390,6 +2492,9 @@
     "name": "Create Food And Water",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -2471,6 +2576,9 @@
     "name": "Create Water",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -2502,6 +2610,9 @@
     "name": "Creeping Doom",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -2513,6 +2624,9 @@
     "name": "Crushing Despair",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2559,6 +2673,9 @@
     "name": "Cure Critical Wounds",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2594,6 +2711,9 @@
     "name": "Cure Critical Wounds, Mass",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -2617,6 +2737,9 @@
     "name": "Cure Light Wounds",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2660,6 +2783,9 @@
     "name": "Cure Light Wounds, Mass",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2695,6 +2821,9 @@
     "name": "Cure Moderate Wounds",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2738,6 +2867,9 @@
     "name": "Cure Moderate Wounds, Mass",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2769,6 +2901,9 @@
     "name": "Cure Serious Wounds",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2812,6 +2947,9 @@
     "name": "Cure Serious Wounds, Mass",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -2998,6 +3136,9 @@
     "name": "Daze",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -3025,6 +3166,9 @@
     "name": "Daze Monster",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -3121,6 +3265,9 @@
     "name": "Deep Slumber",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -3167,6 +3314,9 @@
     "name": "Delay Poison",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -3229,6 +3379,9 @@
     "name": "Demand",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -3629,6 +3782,9 @@
     "name": "Dimension Door",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -3791,6 +3947,9 @@
     "name": "Disguise Self",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -4050,6 +4209,9 @@
     "name": "Displacement",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -4176,6 +4338,9 @@
     "name": "Dominate Animal",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -4191,6 +4356,9 @@
     "name": "Dominate Monster",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -4210,6 +4378,9 @@
     "name": "Dominate Person",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -4256,6 +4427,9 @@
     "name": "Dream",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "phantasm"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -4388,6 +4562,9 @@
     "name": "Elemental Body I",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -4407,6 +4584,9 @@
     "name": "Elemental Body II",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -4426,6 +4606,9 @@
     "name": "Elemental Body III",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -4445,6 +4628,9 @@
     "name": "Elemental Body IV",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -4464,6 +4650,9 @@
     "name": "Elemental Swarm",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -4629,6 +4818,9 @@
     "name": "Enthrall",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "charm"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -4890,6 +5082,9 @@
     "name": "False Vision",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -4971,6 +5166,9 @@
     "name": "Feeblemind",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -5067,6 +5265,9 @@
     "name": "Fire Seeds",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -5350,6 +5551,9 @@
     "name": "Fog Cloud",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -5457,6 +5661,9 @@
     "name": "Form Of The Dragon I",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -5476,6 +5683,9 @@
     "name": "Form Of The Dragon II",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -5495,6 +5705,9 @@
     "name": "Form Of The Dragon III",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -5672,6 +5885,10 @@
     "name": "Gate",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation",
+      "calling"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -5703,6 +5920,9 @@
     "name": "Geas, Lesser",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -5730,6 +5950,9 @@
     "name": "Geas/Quest",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -5800,6 +6023,9 @@
     "name": "Ghost Sound",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "figment"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -5846,6 +6072,9 @@
     "name": "Giant Form I",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -5865,6 +6094,9 @@
     "name": "Giant Form II",
     "type": "spell",
     "school": "Transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -5926,6 +6158,9 @@
     "name": "Glitterdust",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -6029,6 +6264,9 @@
     "name": "Good Hope",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -6078,6 +6316,9 @@
     "name": "Grease",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -6205,6 +6446,9 @@
     "name": "Hallucinatory Terrain",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -6297,6 +6541,9 @@
     "name": "Heal",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -6320,6 +6567,9 @@
     "name": "Heal, Mass",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -6339,6 +6589,9 @@
     "name": "Heal Mount",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Paladin",
@@ -6411,6 +6664,9 @@
     "name": "Heroism",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -6438,6 +6694,9 @@
     "name": "Heroism, Greater",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -6503,6 +6762,9 @@
     "name": "Hideous Laughter",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -6530,6 +6792,9 @@
     "name": "Hold Animal",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -6549,6 +6814,9 @@
     "name": "Hold Monster",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -6576,6 +6844,9 @@
     "name": "Hold Monster, Mass",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -6595,6 +6866,9 @@
     "name": "Hold Person",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -6634,6 +6908,9 @@
     "name": "Hold Person, Mass",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -6759,6 +7036,9 @@
     "name": "Hypnotic Pattern",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "pattern"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -6786,6 +7066,9 @@
     "name": "Hypnotism",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -6867,6 +7150,9 @@
     "name": "Illusory Script",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "phantasm"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -6894,6 +7180,9 @@
     "name": "Illusory Wall",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "figment"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -6970,6 +7259,9 @@
     "name": "Incendiary Cloud",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -7141,6 +7433,9 @@
     "name": "Insanity",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -7160,6 +7455,9 @@
     "name": "Insect Plague",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -7187,6 +7485,9 @@
     "name": "Instant Summons",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -7225,6 +7526,9 @@
     "name": "Invisibility",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -7252,6 +7556,9 @@
     "name": "Invisibility, Greater",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -7279,6 +7586,9 @@
     "name": "Invisibility, Mass",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -7317,6 +7627,9 @@
     "name": "Invisibility Sphere",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -7378,6 +7691,9 @@
     "name": "Irresistible Dance",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -7728,6 +8044,9 @@
     "name": "Lullaby",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -7743,6 +8062,9 @@
     "name": "Mage Armor",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -7808,6 +8130,9 @@
     "name": "Mage's Faithful Hound",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -7838,6 +8163,9 @@
     "name": "Mage's Magnificent Mansion",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -7895,6 +8223,9 @@
     "name": "Magic Aura",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -8130,6 +8461,9 @@
     "name": "Magic Mouth",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -8273,6 +8607,9 @@
     "name": "Major Creation",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -8292,6 +8629,9 @@
     "name": "Major Image",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "figment"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -8373,6 +8713,9 @@
     "name": "Maze",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -8531,6 +8874,9 @@
     "name": "Mind Fog",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -8558,6 +8904,9 @@
     "name": "Minor Creation",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -8577,6 +8926,9 @@
     "name": "Minor Image",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "figment"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -8623,6 +8975,9 @@
     "name": "Mirage Arcana",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -8650,6 +9005,9 @@
     "name": "Mirror Image",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "figment"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -8677,6 +9035,9 @@
     "name": "Misdirection",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -8704,6 +9065,10 @@
     "name": "Mislead",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "figment",
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -8742,6 +9107,9 @@
     "name": "Modify Memory",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -8776,6 +9144,9 @@
     "name": "Mount",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -8822,6 +9193,9 @@
     "name": "Neutralize Poison",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -8865,6 +9239,9 @@
     "name": "Nightmare",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "phantasm"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -8958,6 +9335,9 @@
     "name": "Obscuring Mist",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -9205,6 +9585,9 @@
     "name": "Permanent Image",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "figment"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -9232,6 +9615,9 @@
     "name": "Persistent Image",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "figment"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -9259,6 +9645,9 @@
     "name": "Phantasmal Killer",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "phantasm"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9278,6 +9667,9 @@
     "name": "Phantom Steed",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -9305,6 +9697,9 @@
     "name": "Phantom Trap",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9324,6 +9719,9 @@
     "name": "Phase Door",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9343,6 +9741,9 @@
     "name": "Planar Ally",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "calling"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -9362,6 +9763,9 @@
     "name": "Planar Ally, Greater",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "calling"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -9381,6 +9785,9 @@
     "name": "Planar Ally, Lesser",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "calling"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -9400,6 +9807,9 @@
     "name": "Planar Binding",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "calling"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9419,6 +9829,9 @@
     "name": "Planar Binding, Greater",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "calling"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9438,6 +9851,9 @@
     "name": "Planar Binding, Lesser",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "calling"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9457,6 +9873,9 @@
     "name": "Plane Shift",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -9507,6 +9926,9 @@
     "name": "Plant Shape I",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9526,6 +9948,9 @@
     "name": "Plant Shape II",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9545,6 +9970,9 @@
     "name": "Plant Shape III",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9610,6 +10038,9 @@
     "name": "Polymorph",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9629,6 +10060,9 @@
     "name": "Polymorph Any Object",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9648,6 +10082,9 @@
     "name": "Polymorph, Greater",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9667,6 +10104,9 @@
     "name": "Power Word Blind",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9686,6 +10126,9 @@
     "name": "Power Word Kill",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9705,6 +10148,9 @@
     "name": "Power Word Stun",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -9724,6 +10170,9 @@
     "name": "Prayer",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -9846,6 +10295,9 @@
     "name": "Programmed Image",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "figment"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -9873,6 +10325,9 @@
     "name": "Project Image",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "shadow"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -10220,6 +10675,9 @@
     "name": "Rage",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -10247,6 +10705,9 @@
     "name": "Rainbow Pattern",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "pattern"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -10274,6 +10735,9 @@
     "name": "Raise Dead",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -10462,6 +10926,9 @@
     "name": "Refuge",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -10493,6 +10960,9 @@
     "name": "Regenerate",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -10531,6 +11001,9 @@
     "name": "Remove Blindness/Deafness",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -10597,6 +11070,9 @@
     "name": "Remove Disease",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -10655,6 +11131,9 @@
     "name": "Remove Paralysis",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -10891,6 +11370,9 @@
     "name": "Restoration",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -10914,6 +11396,9 @@
     "name": "Restoration, Greater",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -10933,6 +11418,9 @@
     "name": "Restoration, Lesser",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -10964,6 +11452,9 @@
     "name": "Resurrection",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -11105,6 +11596,9 @@
     "name": "Scintillating Pattern",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "pattern"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -11143,6 +11637,9 @@
     "name": "Screen",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -11162,6 +11659,9 @@
     "name": "Scrying",
     "type": "spell",
     "school": "divination",
+    "subschool": [
+      "scrying"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -11209,6 +11709,9 @@
     "name": "Scrying, Greater",
     "type": "spell",
     "school": "divination",
+    "subschool": [
+      "scrying"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -11286,6 +11789,9 @@
     "name": "Secret Chest",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -11332,6 +11838,9 @@
     "name": "Secure Shelter",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -11386,6 +11895,9 @@
     "name": "Seeming",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -11444,6 +11956,9 @@
     "name": "Sepia Snake Sigil",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -11490,6 +12005,9 @@
     "name": "Shades",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "shadow"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -11509,6 +12027,9 @@
     "name": "Shadow Conjuration",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "shadow"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -11536,6 +12057,9 @@
     "name": "Shadow Conjuration, Greater",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "shadow"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -11555,6 +12079,9 @@
     "name": "Shadow Evocation",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "shadow"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -11582,6 +12109,9 @@
     "name": "Shadow Evocation, Greater",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "shadow"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -11601,6 +12131,9 @@
     "name": "Shadow Walk",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "shadow"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -11628,6 +12161,9 @@
     "name": "Shambler",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -11639,6 +12175,9 @@
     "name": "Shapechange",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -11888,6 +12427,9 @@
     "name": "Silence",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -11915,6 +12457,9 @@
     "name": "Silent Image",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "figment"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -11942,6 +12487,9 @@
     "name": "Simulacrum",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "shadow"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -11980,6 +12528,9 @@
     "name": "Sleep",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -12007,6 +12558,9 @@
     "name": "Sleet Storm",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -12095,6 +12649,9 @@
     "name": "Solid Fog",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -12114,6 +12671,9 @@
     "name": "Song Of Discord",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -12450,6 +13010,9 @@
     "name": "Stabilize",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -12515,6 +13078,9 @@
     "name": "Stinking Cloud",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -12634,6 +13200,9 @@
     "name": "Storm Of Vengeance",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -12657,6 +13226,9 @@
     "name": "Suggestion",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -12684,6 +13256,9 @@
     "name": "Suggestion, Mass",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -12711,6 +13286,9 @@
     "name": "Summon Instrument",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -12726,6 +13304,9 @@
     "name": "Summon Monster I",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -12765,6 +13346,9 @@
     "name": "Summon Monster II",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -12804,6 +13388,9 @@
     "name": "Summon Monster III",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -12843,6 +13430,9 @@
     "name": "Summon Monster IV",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -12882,6 +13472,9 @@
     "name": "Summon Monster IX",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -12913,6 +13506,9 @@
     "name": "Summon Monster V",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -12952,6 +13548,9 @@
     "name": "Summon Monster VI",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -12991,6 +13590,9 @@
     "name": "Summon Monster VII",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -13022,6 +13624,9 @@
     "name": "Summon Monster VIII",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -13053,6 +13658,9 @@
     "name": "Summon Nature's Ally I",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -13072,6 +13680,9 @@
     "name": "Summon Nature's Ally II",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -13091,6 +13702,9 @@
     "name": "Summon Nature's Ally III",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -13110,6 +13724,9 @@
     "name": "Summon Nature's Ally IV",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -13129,6 +13746,9 @@
     "name": "Summon Nature's Ally IX",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -13140,6 +13760,9 @@
     "name": "Summon Nature's Ally V",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -13155,6 +13778,9 @@
     "name": "Summon Nature's Ally VI",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -13170,6 +13796,9 @@
     "name": "Summon Nature's Ally VII",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -13181,6 +13810,9 @@
     "name": "Summon Nature's Ally VIII",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -13192,6 +13824,9 @@
     "name": "Summon Swarm",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -13323,6 +13958,9 @@
     "name": "Symbol Of Insanity",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -13385,6 +14023,9 @@
     "name": "Symbol Of Persuasion",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "charm"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -13416,6 +14057,9 @@
     "name": "Symbol Of Sleep",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -13447,6 +14091,9 @@
     "name": "Symbol Of Stunning",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -13524,6 +14171,9 @@
     "name": "Sympathy",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -13604,6 +14254,9 @@
     "name": "Teleport",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -13623,6 +14276,9 @@
     "name": "Teleport, Greater",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -13642,6 +14298,9 @@
     "name": "Teleport Object",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -13661,6 +14320,9 @@
     "name": "Teleportation Circle",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -13803,6 +14465,9 @@
     "name": "Touch Of Idiocy",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -13906,6 +14571,9 @@
     "name": "Transport Via Plants",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -13921,6 +14589,9 @@
     "name": "Trap The Soul",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -13959,6 +14630,9 @@
     "name": "Tree Stride",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -13978,6 +14652,9 @@
     "name": "True Resurrection",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -14178,6 +14855,9 @@
     "name": "Unseen Servant",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -14224,6 +14904,9 @@
     "name": "Veil",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -14251,6 +14934,9 @@
     "name": "Ventriloquism",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "figment"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -14412,6 +15098,9 @@
     "name": "Wall Of Iron",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -14431,6 +15120,9 @@
     "name": "Wall Of Stone",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -14470,6 +15162,9 @@
     "name": "Wall Of Thorns",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -14604,6 +15299,9 @@
     "name": "Web",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -14623,6 +15321,9 @@
     "name": "Weird",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "phantasm"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -14799,6 +15500,9 @@
     "name": "Word Of Recall",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -14822,6 +15526,9 @@
     "name": "Zone Of Silence",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -14837,6 +15544,9 @@
     "name": "Zone Of Truth",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Cleric",

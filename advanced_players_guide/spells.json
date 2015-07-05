@@ -49,6 +49,9 @@
     "name": "Acid Pit",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -199,6 +202,9 @@
     "name": "Aqueous Orb",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -245,6 +251,9 @@
     "name": "Arrow Eruption",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Ranger",
@@ -272,6 +281,9 @@
     "name": "Aspect Of The Bear",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -291,6 +303,9 @@
     "name": "Aspect Of The Falcon",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -310,6 +325,9 @@
     "name": "Aspect Of The Stag",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -329,6 +347,9 @@
     "name": "Aspect Of The Wolf",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -401,6 +422,9 @@
     "name": "Bard's Escape",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -416,6 +440,9 @@
     "name": "Beguiling Gift",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -446,6 +473,9 @@
     "name": "Blaze Of Glory",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Paladin",
@@ -457,6 +487,9 @@
     "name": "Blessing Of Courage And Life",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -499,6 +532,9 @@
     "name": "Blessing Of The Salamander",
     "type": "spell",
     "school": "transmutation",
+    "subschool": [
+      "polymorph"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -648,6 +684,9 @@
     "name": "Bow Spirit",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Ranger",
@@ -776,6 +815,9 @@
     "name": "Cacophonous Call",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -791,6 +833,9 @@
     "name": "Cacophonous Call, Mass",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -825,6 +870,9 @@
     "name": "Call Animal",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -894,6 +942,9 @@
     "name": "Castigate",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Inquisitor",
@@ -905,6 +956,9 @@
     "name": "Castigate, Mass",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Inquisitor",
@@ -916,6 +970,9 @@
     "name": "Challenge Evil",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Paladin",
@@ -927,6 +984,9 @@
     "name": "Chameleon Stride",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Ranger",
@@ -942,6 +1002,9 @@
     "name": "Clashing Rocks",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -988,6 +1051,9 @@
     "name": "Cloak Of Dreams",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -1069,6 +1135,9 @@
     "name": "Confess",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Inquisitor",
@@ -1137,6 +1206,9 @@
     "name": "Coward's Lament",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Inquisitor",
@@ -1194,6 +1266,9 @@
     "name": "Create Pit",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -1405,6 +1480,9 @@
     "name": "Denounce",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -1804,6 +1882,9 @@
     "name": "Euphoric Tranquility",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2184,6 +2265,9 @@
     "name": "Flare Burst",
     "type": "spell",
     "school": "evocation",
+    "subschool": [
+      "light"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2265,6 +2349,9 @@
     "name": "Foe To Friend",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2306,6 +2393,9 @@
     "name": "Forced Repentance",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Inquisitor",
@@ -2321,6 +2411,9 @@
     "name": "Frozen Note",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2351,6 +2444,9 @@
     "name": "Getaway",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2378,6 +2474,9 @@
     "name": "Geyser",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -2564,6 +2663,9 @@
     "name": "Grove Of Respite",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -2614,6 +2716,9 @@
     "name": "Heroic Finale",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2629,6 +2734,9 @@
     "name": "Hero's Defiance",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Paladin",
@@ -2663,6 +2771,9 @@
     "name": "Hide Campsite",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -2716,6 +2827,9 @@
     "name": "Hungry Pit",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -2827,6 +2941,9 @@
     "name": "Ill Omen",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Witch",
@@ -2853,6 +2970,9 @@
     "name": "Instant Armor",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -2921,6 +3041,9 @@
     "name": "Jester's Jaunt",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -2963,6 +3086,9 @@
     "name": "King's Castle",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "teleportation"
+    ],
     "levels": [
       {
         "class": "Paladin",
@@ -2974,6 +3100,9 @@
     "name": "Knight's Calling",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Paladin",
@@ -3099,6 +3228,9 @@
     "name": "Mask Dweomer",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Witch",
@@ -3137,6 +3269,9 @@
     "name": "Moonstruck",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -3358,6 +3493,9 @@
     "name": "Phantasmal Revenge",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "phantasm"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -3377,6 +3515,9 @@
     "name": "Phantasmal Web",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "phantasm"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -3404,6 +3545,9 @@
     "name": "Pied Piping",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -3419,6 +3563,9 @@
     "name": "Pillar Of Life",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -3534,6 +3681,9 @@
     "name": "Protective Spirit",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Ranger",
@@ -3549,6 +3699,9 @@
     "name": "Purging Finale",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -3564,6 +3717,9 @@
     "name": "Purified Calling",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Summoner",
@@ -3586,6 +3742,9 @@
     "name": "Rally Point",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Paladin",
@@ -3597,6 +3756,9 @@
     "name": "Rampart",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -3631,6 +3793,9 @@
     "name": "Rejuvenate Eidolon",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Summoner",
@@ -3642,6 +3807,9 @@
     "name": "Rejuvenate Eidolon, Greater",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Summoner",
@@ -3653,6 +3821,9 @@
     "name": "Rejuvenate Eidolon, Lesser",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Summoner",
@@ -3744,6 +3915,9 @@
     "name": "Resurgent Transformation",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Alchemist",
@@ -3770,6 +3944,9 @@
     "name": "Reviving Finale",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -3785,6 +3962,9 @@
     "name": "Righteous Vigor",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Inquisitor",
@@ -3827,6 +4007,9 @@
     "name": "Sacred Bond",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "healing"
+    ],
     "levels": [
       {
         "class": "Cleric",
@@ -3951,6 +4134,9 @@
     "name": "Seamantle",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -4087,6 +4273,9 @@
     "name": "Share Senses",
     "type": "spell",
     "school": "divination",
+    "subschool": [
+      "scrying"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -4110,6 +4299,9 @@
     "name": "Shared Wrath",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Inquisitor",
@@ -4194,6 +4386,9 @@
     "name": "Sleepwalk",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Inquisitor",
@@ -4209,6 +4404,9 @@
     "name": "Slipstream",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -4267,6 +4465,9 @@
     "name": "Solid Note",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -4333,6 +4534,9 @@
     "name": "Spiked Pit",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -4386,6 +4590,9 @@
     "name": "Stay The Hand",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Paladin",
@@ -4397,6 +4604,9 @@
     "name": "Stone Call",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -4521,6 +4731,9 @@
     "name": "Stumble Gap",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Sorcerer",
@@ -4540,6 +4753,9 @@
     "name": "Stunning Finale",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -4601,6 +4817,9 @@
     "name": "Summon Eidolon",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Summoner",
@@ -4895,6 +5114,9 @@
     "name": "Tsunami",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -5017,6 +5239,9 @@
     "name": "Unwitting Ally",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "charm"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -5032,6 +5257,9 @@
     "name": "Vanish",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "glamer"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -5120,6 +5348,9 @@
     "name": "Vomit Swarm",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "summoning"
+    ],
     "levels": [
       {
         "class": "Alchemist",
@@ -5173,6 +5404,9 @@
     "name": "Wall Of Lava",
     "type": "spell",
     "school": "conjuration",
+    "subschool": [
+      "creation"
+    ],
     "levels": [
       {
         "class": "Druid",
@@ -5215,6 +5449,9 @@
     "name": "Wandering Star Motes",
     "type": "spell",
     "school": "illusion",
+    "subschool": [
+      "pattern"
+    ],
     "levels": [
       {
         "class": "Bard",
@@ -5342,6 +5579,9 @@
     "name": "Wrath",
     "type": "spell",
     "school": "enchantment",
+    "subschool": [
+      "compulsion"
+    ],
     "levels": [
       {
         "class": "Inquisitor",
