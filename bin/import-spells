@@ -18,7 +18,7 @@ importSpells = (target, src, callback) ->
       return callback err if err
 
       data = JSON.parse data
-      callback null, pick data, ['name', 'type', 'school', 'levels']
+      callback null, pick data, ['name', 'type', 'school', 'subschool', 'levels']
 
   glob "#{src}/*.json", (err, files) ->
     return callback err if err
